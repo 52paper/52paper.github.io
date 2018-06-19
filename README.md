@@ -4,7 +4,11 @@
 - presenter务必每周1发出分享的paper，并且update到 https://52paper.github.io/ 。
 - attender希望都能够提前把分享的paper至少通读一遍，积极提出问题及参与discussion。
 
-### 2018/6/20
+### 2018/6/20 GAN
+- xiaojiang's questions, hope we could have agreements on these three points, and output some reports:
+  1. Why Seq2seq is better than the previous language model methods in generating language sequence. Why GAN is better than Seq2seq?
+  2. GAN has been successfully appllied to many new image tasks, such as image generation. What are the best tasks of GAN for text?
+  3. Why GAN has no break-through on text yet? All possible reasons.
 - cd: gumbel softmax&reinforce的解法
 - gaojun: 
   - EMNLP2017 [Neural Response Generation via GAN with an Approximate Embedding Layer∗](http://aclweb.org/anthology/D17-1065)
