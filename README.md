@@ -6,10 +6,10 @@
 
 ### 2018/6/20 GAN
 - xiaojiang's questions, hope we could have agreements on these three points, and output some reports:
-  1. Why Seq2seq is better than the previous language model methods in generating language sequence. Why GAN is better than Seq2seq?
+  1. Why Seq2seq is better than the previous language model methods in generating language sequence. Why GAN is better than standard Seq2seq?
   2. GAN has been successfully appllied to many new image tasks, such as image generation. What are the best tasks of GAN for text?
   3. Why GAN has no break-through on text yet? All possible reasons.
-- cd: gumbel softmax&reinforce的解法
+- cd: Implement Adversarial Training for Text Generation (motivations and technologies)
 - gaojun: 
   - EMNLP2017 [Neural Response Generation via GAN with an Approximate Embedding Layer∗](http://aclweb.org/anthology/D17-1065)
   - IJCAI2018 [Commonsense Knowledge Aware Conversation Generation with Graph Attention](http://coai.cs.tsinghua.edu.cn/hml/media/files/2018_commonsense_ZhouHao_3_TYVQ7Iq.pdf)
