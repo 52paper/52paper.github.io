@@ -13,7 +13,7 @@
 - gaojun: 
   - EMNLP2017 [Neural Response Generation via GAN with an Approximate Embedding Layer∗](http://aclweb.org/anthology/D17-1065)
   - IJCAI2018 [Commonsense Knowledge Aware Conversation Generation with Graph Attention](http://coai.cs.tsinghua.edu.cn/hml/media/files/2018_commonsense_ZhouHao_3_TYVQ7Iq.pdf)
-- yahui
+- yahui[slide](./20180620_amosyhliu.pdf)
   - EMNLP2017 [Adversarial Learning for Neural Dialogue Generation](https://nlp.stanford.edu/pubs/li2017adversarial.pdf)
   - ICLR2018 [MaskGAN: Better Text Generation via Filling in the __ ](https://arxiv.org/pdf/1801.07736.pdf)
 - biwei 
