@@ -2,7 +2,7 @@ After two long discussions, we have got some insights about GAN and reached many
 
 Here is my suggested outline for this report.
 
-1. Brief introduction for GAN, basic idea, formula of GAN.
+1. Brief introduction to GAN, basic idea, formula of GAN.
 2. GAN's characteristics, especially comparing with MLE and RL.
 3. GAN for Text's main model problems and possible solutions
 3.1 gradient vanish problem, how could we solve it
