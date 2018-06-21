@@ -14,3 +14,9 @@ Here is my suggested outline for this report.
 5.2 Text is discrete, and hard to be represented in a continous space
 5.3 others
 6. Future work and in what directions we could improve GAN and use GAN in text
+
+
+gan这么厉害，我还有的一些疑问：
+1. application：看起来很多cv上比较好的应用在text都有体现，虽然效果可能不好，但是有很多都是第一次实现的，比如style transfer, textgan, maskgan，还有没有其他可以挖掘的？
+2. 从textgan上看其实gan的可改造性比较强，这种可改造性还是比较适合发paper和有新的application，可以总结一下大家改进和应用的思路？
+3. 看起来gan for dialog是一个比mle更适合的解决方案，更合适解决1-n的问题，但是还是很难调的，然后？
