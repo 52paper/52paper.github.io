@@ -12,7 +12,7 @@
 - cd
    - ACL2018 [Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting]
    - ACL2018 [Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach]
-- yahui
+- yahui [[slide](./20180625_amosyhliu.pdf)]
    - NAACL 2018 [Discourse-Aware Neural Rewards for Coherent Text Generation](https://arxiv.org/pdf/1805.03766.pdf)
 - biwei [[slide](./20180625_biwei.pdf)]
    - ICML2017 [Sequence Tutor: Conservative Fine-Tuning of Sequence Generation Models with KL-control](https://arxiv.org/abs/1611.02796)
