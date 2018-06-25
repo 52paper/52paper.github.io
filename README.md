@@ -5,7 +5,7 @@
 - attender希望都能够提前把分享的paper至少通读一遍，积极提出问题及参与discussion。
 
 ### 2018/6/26 GAN review & Knowledge-incoporated Generation & RL
-- review xiaojiang's questions about GAN again and summarize GAN's possible use in conversation resposne geneartion.
+- review xiaojiang's [questions about GAN](./gan_report.md) again and summarize GAN's possible use in conversation resposne geneartion.
 - gaojun
    - IJCAI2016 [Neural Generative Question Answering]
    - A Knowledge-Grounded Neural Conversation Model
