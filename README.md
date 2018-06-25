@@ -14,7 +14,7 @@
    - ACL2018 [Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach]
 - yahui
    - NAACL [Discourse-Aware Neural Rewards for Coherent Text Generation]
-- biwei
+- biwei (./20180625_biwei.pdf)
    - ICML2017 [Sequence Tutor: Conservative Fine-Tuning of Sequence Generation Models with KL-control](https://arxiv.org/abs/1611.02796)
 
 ### 2018/6/20 GAN
