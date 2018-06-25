@@ -7,7 +7,7 @@
 ### 2018/6/26 GAN review & Knowledge-incoporated Generation & RL
 
 |Lecturer|Papers|Slide|Others|
-|:----:|:----|:----:|:-----|
+|:----:|:----|:----:|:-----:|
 |xiaojiang|review [questions about GAN](./gan_report.md) again and summarize GAN's possible use in conversation resposne geneartion.|-|-|
 |gaojun|IJCAI2016 [Neural Generative Question Answering](https://arxiv.org/pdf/1512.01337.pdf)|-|-|
 |-|AAAI2018[A Knowledge-Grounded Neural Conversation Model](https://arxiv.org/pdf/1702.01932.pdf)|-|-|
