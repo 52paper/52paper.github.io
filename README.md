@@ -5,17 +5,17 @@
 - attender希望都能够提前把分享的paper至少通读一遍，积极提出问题及参与discussion。
 
 ### 2018/6/26 GAN review & Knowledge-incoporated Generation & RL
-- review xiaojiang's [questions about GAN](./gan_report.md) again and summarize GAN's possible use in conversation resposne geneartion.
-- gaojun
-   - IJCAI2016 [Neural Generative Question Answering]
-   - A Knowledge-Grounded Neural Conversation Model
-- cd
-   - ACL2018 [Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting]
-   - ACL2018 [Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach]
-- yahui [[slide](./20180625_amosyhliu.pdf)]
-   - NAACL 2018 [Discourse-Aware Neural Rewards for Coherent Text Generation](https://arxiv.org/pdf/1805.03766.pdf)
-- biwei [[slide](./20180625_biwei.pdf)]
-   - ICML2017 [Sequence Tutor: Conservative Fine-Tuning of Sequence Generation Models with KL-control](https://arxiv.org/abs/1611.02796)
+
+|Lecturer|Papers|Slide|Others|
+|:----:|:----|:----:|:-----|
+|xiaojiang|review [questions about GAN](./gan_report.md) again and summarize GAN's possible use in conversation resposne geneartion.|-|-|
+|gaojun|IJCAI2016 [Neural Generative Question Answering](https://arxiv.org/pdf/1512.01337.pdf)|-|-|
+|-|AAAI2018[A Knowledge-Grounded Neural Conversation Model](https://arxiv.org/pdf/1702.01932.pdf)|-|-|
+|cd|ACL2018 [Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting](https://arxiv.org/pdf/1805.11080.pdf)|-|-|
+|-|ACL2018 [Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach](https://arxiv.org/pdf/1805.05181.pdf)|-|-|
+|yahui|NAACL2018 [Discourse-Aware Neural Rewards for Coherent Text Generation](https://arxiv.org/pdf/1805.03766.pdf)| [[slide](./20180625_amosyhliu.pdf)]|-|
+|biwei|ICML2017 [Sequence Tutor: Conservative Fine-Tuning of Sequence Generation Models with KL-control](https://arxiv.org/abs/1611.02796)|[[slide](./20180625_biwei.pdf)]|-|
+
 
 ### 2018/6/20 GAN
 - xiaojiang's questions, hope we could have agreements on these three points, and output some reports:
