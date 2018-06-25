@@ -22,12 +22,12 @@
   1. Why Seq2seq is better than the previous language model methods in generating language sequence. Why GAN is better than standard Seq2seq?
   2. GAN has been successfully appllied to many new image tasks, such as image generation. What are the best tasks of GAN for text?
   3. Why GAN has no break-through on text yet? All possible reasons.
-- cd [[slide]](./20180620_jcykcai.pdf): Implement Adversarial Training for Text Generation (motivations and technologies)
-- gaojun: [[slide]](./20180620_gaojun.pdf)
-  - EMNLP2017 [Neural Response Generation via GAN with an Approximate Embedding Layer∗](http://aclweb.org/anthology/D17-1065)
-  - IJCAI2018 [Commonsense Knowledge Aware Conversation Generation with Graph Attention](http://coai.cs.tsinghua.edu.cn/hml/media/files/2018_commonsense_ZhouHao_3_TYVQ7Iq.pdf)
-- yahui [[slide]](./20180620_amosyhliu.pdf)
-  - EMNLP2017 [Adversarial Learning for Neural Dialogue Generation](https://nlp.stanford.edu/pubs/li2017adversarial.pdf)
-  - ICLR2018 [MaskGAN: Better Text Generation via Filling in the __ ](https://arxiv.org/pdf/1801.07736.pdf)
-- biwei [[slide]](./20180621_biwei.pdf)
-  - ICML2017 [Adversarial Feature Matching for Text Generation](https://arxiv.org/pdf/1706.03850.pdf)
+  
+|Lecturer|Papers|Slide|Others|
+|:----:|:----|:----:|:-----:|
+|cd|Implement Adversarial Training for Text Generation (motivations and technologies)|[[slide]](./20180620_jcykcai.pdf)|-|
+|gaojun|EMNLP2017 [Neural Response Generation via GAN with an Approximate Embedding Layer∗](http://aclweb.org/anthology/D17-1065)|[[slide]](./20180620_gaojun.pdf)|-|
+|-|IJCAI2018 [Commonsense Knowledge Aware Conversation Generation with Graph Attention](http://coai.cs.tsinghua.edu.cn/hml/media/files/2018_commonsense_ZhouHao_3_TYVQ7Iq.pdf)|-|-|
+|yahui|EMNLP2017 [Adversarial Learning for Neural Dialogue Generation](https://nlp.stanford.edu/pubs/li2017adversarial.pdf)|[[slide]](./20180620_amosyhliu.pdf)|-|
+|-|CLR2018 [MaskGAN: Better Text Generation via Filling in the __ ](https://arxiv.org/pdf/1801.07736.pdf)|-|-|
+|biwei|ICML2017 [Adversarial Feature Matching for Text Generation](https://arxiv.org/pdf/1706.03850.pdf)|[[slide]](./20180621_biwei.pdf)|-|
