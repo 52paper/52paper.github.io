@@ -12,7 +12,7 @@
 |Lecturer|Papers|Slide|Others|
 |:----:|:----|:----:|:-----:|
 |xiaojiang|review [questions about GAN](./gan_report.md) again and summarize GAN's possible use in conversation resposne geneartion.|-|-|
-|gaojun|IJCAI2016 [Neural Generative Question Answering](https://arxiv.org/pdf/1512.01337.pdf)|[[slide]](./20180626_gaojun.pdf)|-|
+|gaojun|IJCAI2016 [Neural Generative Question Answering](https://arxiv.org/pdf/1512.01337.pdf)|[[slide]](./20180626_gaojunv3.pdf)|-|
 |-|AAAI2018 [A Knowledge-Grounded Neural Conversation Model](https://arxiv.org/pdf/1702.01932.pdf)|-|-|
 |cd|ACL2018 [Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting](https://arxiv.org/pdf/1805.11080.pdf)|[[slide]](./20180625_jcykcai.pdf)|-|
 |-|ACL2018 [Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach](https://arxiv.org/pdf/1805.05181.pdf)|-|-|
