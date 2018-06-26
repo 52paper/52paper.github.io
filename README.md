@@ -25,7 +25,7 @@
   
 |Lecturer|Papers|Slide|Others|
 |:----:|:----|:----:|:-----:|
-|cd|Implement Adversarial Training for Text Generation (motivations and technologies)|[[slide]](./20180620_jcykcai.pdf)|-|
+|cd|Implement Adversarial Training for Text Generation (motivations and technologies)|[[slide]](./20180621_jcykcai.pdf)|-|
 |gaojun|EMNLP2017 [Neural Response Generation via GAN with an Approximate Embedding Layer∗](http://aclweb.org/anthology/D17-1065)|[[slide]](./20180620_gaojun.pdf)|-|
 |-|IJCAI2018 [Commonsense Knowledge Aware Conversation Generation with Graph Attention](http://coai.cs.tsinghua.edu.cn/hml/media/files/2018_commonsense_ZhouHao_3_TYVQ7Iq.pdf)|-|-|
 |yahui|EMNLP2017 [Adversarial Learning for Neural Dialogue Generation](https://nlp.stanford.edu/pubs/li2017adversarial.pdf)|[[slide]](./20180620_amosyhliu.pdf)|-|
