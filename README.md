@@ -4,6 +4,9 @@
 - presenter务必每周5发出分享的paper，并且update到 https://52paper.github.io/ ;在present前准备简短的slides(每篇paper<10页)及update到本页面。
 - attender希望都能够提前把分享的paper至少通读一遍，积极提出问题及参与discussion。
 
+--------------------
+
+
 ### 2018/6/26 GAN review & Knowledge-incoporated Generation & RL
 
 |Lecturer|Papers|Slide|Others|
