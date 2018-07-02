@@ -8,7 +8,7 @@
 
 ### 2018/7/3 Reinforcement Learning
 
-|Lecturer|Papers|Slides|Others|
+|Lecturers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |gaojun|-|-|-|
 |cd|Nature2017 [Mastering the game of Go Without human knowledge](https://www.nature.com/articles/nature24270.pdf)|[slide]|-|
@@ -20,7 +20,7 @@
 
 ### 2018/6/26 GAN review & Knowledge-incoporated Generation & RL
 
-|Lecturer|Papers|Slides|Others|
+|Lecturers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |xiaojiang|review [questions about GAN](./gan_report.md) again and summarize GAN's possible use in conversation resposne geneartion.|-|-|
 |gaojun|IJCAI2016 [Neural Generative Question Answering](https://arxiv.org/pdf/1512.01337.pdf)|[[slide]](./20180626_gaojunv3.pdf)|-|
@@ -37,7 +37,7 @@
   2. GAN has been successfully appllied to many new image tasks, such as image generation. What are the best tasks of GAN for text?
   3. Why GAN has no break-through on text yet? All possible reasons.
   
-|Lecturer|Papers|Slides|Others|
+|Lecturers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |cd|Implement Adversarial Training for Text Generation (motivations and technologies)|[[slide]](./20180621_jcykcai.pdf)|-|
 |gaojun|EMNLP2017 [Neural Response Generation via GAN with an Approximate Embedding Layer∗](http://aclweb.org/anthology/D17-1065)|[[slide]](./20180620_gaojun.pdf)|-|
