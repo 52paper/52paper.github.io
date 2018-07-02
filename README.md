@@ -10,12 +10,12 @@
 
 |Lecturer|Papers|Slide|Others|
 |:----:|:----|:----:|:-----:|
-|gaojun|
-|cd|Nature2017 [Mastering the game of Go Without human knowledge](https://www.nature.com/articles/nature24270.pdf)|-|-|
-|yahui|IJCAI2018 [Learning to Converse with Noisy Data: Generation with Calibration](https://www.cs.jhu.edu/~npeng/papers/IJCAI18-learning-converse-noisy.pdf)|-|-|
+|gaojun|-|-|-|
+|cd|Nature2017 [Mastering the game of Go Without human knowledge](https://www.nature.com/articles/nature24270.pdf)|[slide]|-|
+|yahui|IJCAI2018 [Learning to Converse with Noisy Data: Generation with Calibration](https://www.cs.jhu.edu/~npeng/papers/IJCAI18-learning-converse-noisy.pdf)|[slide]|-|
 |-|arXiv2016 [Data Distillation for Controlling Specificity in Dialogue Generation](https://arxiv.org/pdf/1702.06703.pdf)|-|-|
-|ziyang|CVPR2018 [Video Captioning via Hierarchical Reinforcement Learning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Video_Captioning_via_CVPR_2018_paper.pdf)|-|-|
-|biwei|ICML2017 [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1703.01161.pdf)|-|-|
+|ziyang|CVPR2018 [Video Captioning via Hierarchical Reinforcement Learning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Video_Captioning_via_CVPR_2018_paper.pdf)|[slide]|-|
+|biwei|ICML2017 [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1703.01161.pdf)|[slide]|-|
 
 
 ### 2018/6/26 GAN review & Knowledge-incoporated Generation & RL
