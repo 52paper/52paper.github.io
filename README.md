@@ -8,7 +8,7 @@
 
 ### 2018/7/3 Reinforcement Learning
 
-|Lecturers|Papers|Slides|Others|
+|Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |gaojun|[AAAI2018 Flexible End-to-End Dialogue System for Knowledge Grounded Conversation](https://arxiv.org/pdf/1709.04264.pdf)|[slide](./20180703_gaojun.pdf)|-|
 |cd|Nature2017 [Mastering the game of Go Without human knowledge](https://www.nature.com/articles/nature24270.pdf)|[slide]|-|
@@ -20,7 +20,7 @@
 
 ### 2018/6/26 GAN review & Knowledge-incoporated Generation & RL
 
-|Lecturers|Papers|Slides|Others|
+|Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |xiaojiang|review [questions about GAN](./gan_report.md) again and summarize GAN's possible use in conversation resposne geneartion.|-|-|
 |gaojun|IJCAI2016 [Neural Generative Question Answering](https://arxiv.org/pdf/1512.01337.pdf)|[[slide]](./20180626_gaojunv3.pdf)|-|
