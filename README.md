@@ -10,7 +10,7 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|gaojun|[AAAI2018 Flexible End-to-End Dialogue System for Knowledge Grounded Conversation](https://arxiv.org/pdf/1709.04264.pdf)|[[slide]](./20180703_gaojun.pdf)|-|
+|gaojun|AAAI2018 [Flexible End-to-End Dialogue System for Knowledge Grounded Conversation](https://arxiv.org/pdf/1709.04264.pdf)|[[slide]](./20180703_gaojun.pdf)|-|
 |cd|Nature2017 [Mastering the game of Go Without human knowledge](https://www.nature.com/articles/nature24270.pdf)|[slide]|-|
 |ziyang|CVPR2018 [Video Captioning via Hierarchical Reinforcement Learning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Video_Captioning_via_CVPR_2018_paper.pdf)|[[slide]](./20190703_willzychen.pdf)|-|
 |biwei|ICML2017 [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1703.01161.pdf)|[[slide]](./20180702_biwei.pdf)|-|
