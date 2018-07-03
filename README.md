@@ -8,19 +8,19 @@
 
 ### 2018/7/3 Reinforcement Learning
 
-|Lecturers|Papers|Slides|Others|
+|Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|gaojun|[Flexible End-to-End Dialogue System for Knowledge Grounded Conversation](https://arxiv.org/pdf/1709.04264.pdf)|-|-|
-|cd|Nature2017 [Mastering the game of Go Without human knowledge](https://www.nature.com/articles/nature24270.pdf)|[slide]|-|
-|ziyang|CVPR2018 [Video Captioning via Hierarchical Reinforcement Learning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Video_Captioning_via_CVPR_2018_paper.pdf)|[slide]|-|
+|gaojun|AAAI2018 [Flexible End-to-End Dialogue System for Knowledge Grounded Conversation](https://arxiv.org/pdf/1709.04264.pdf)|[[slide]](./20180703_gaojun.pdf)|-|
+|cd|Nature2017 [Mastering the game of Go Without human knowledge](https://www.nature.com/articles/nature24270.pdf)|[[slide]](./20180703_jcykcai.pdf)|-|
+|ziyang|CVPR2018 [Video Captioning via Hierarchical Reinforcement Learning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Video_Captioning_via_CVPR_2018_paper.pdf)|[[slide]](./20190703_willzychen.pdf)|-|
 |biwei|ICML2017 [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1703.01161.pdf)|[[slide]](./20180702_biwei.pdf)|-|
-|yahui|IJCAI2018 [Learning to Converse with Noisy Data: Generation with Calibration](https://www.cs.jhu.edu/~npeng/papers/IJCAI18-learning-converse-noisy.pdf)|[slide]|-|
+|yahui|IJCAI2018 [Learning to Converse with Noisy Data: Generation with Calibration](https://www.cs.jhu.edu/~npeng/papers/IJCAI18-learning-converse-noisy.pdf)|[[slide]](./20180703_amosyhliu.pdf)|-|
 |-|arXiv2016 [Data Distillation for Controlling Specificity in Dialogue Generation](https://arxiv.org/pdf/1702.06703.pdf)|-|-|
 
 
 ### 2018/6/26 GAN review & Knowledge-incoporated Generation & RL
 
-|Lecturers|Papers|Slides|Others|
+|Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |xiaojiang|review [questions about GAN](./gan_report.md) again and summarize GAN's possible use in conversation resposne geneartion.|-|-|
 |gaojun|IJCAI2016 [Neural Generative Question Answering](https://arxiv.org/pdf/1512.01337.pdf)|[[slide]](./20180626_gaojunv3.pdf)|-|
