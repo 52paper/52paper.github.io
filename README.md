@@ -6,6 +6,18 @@
 
 --------------------
 
+### 2018/7/10 
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|gaojun|-|-|-|
+|cd|-|-|-|
+|ziyang|-|-|-|
+|biwei|-|-|-|
+|zhaoyang|-|-|-|
+|yahui|AAAI2015 [Self-Paced Curriculum Learning](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9750/9929)|-|-|
+|-|arXiv2017 [MentorNet: Regularizing Very Deep Neural Networks on Corrupted Labels](https://arxiv.org/abs/1712.05055)|-|-|
+
 ### 2018/7/3 Reinforcement Learning
 
 |Speakers|Papers|Slides|Others|
