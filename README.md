@@ -11,10 +11,8 @@
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |gaojun|-|-|-|
-|cd|ACL18 AdvEntuRe: Adversarial Training for Textual Entailment with Knowledge-Guided Examples
-|-|-|
-|-|ACL18 Working Memory Networks- Augmenting Memory Networks with a Relational Reasoning Module
-|-|-|
+|cd|ACL18 AdvEntuRe: Adversarial Training for Textual Entailment with Knowledge-Guided Examples |-|-|
+|-|ACL18 Working Memory Networks- Augmenting Memory Networks with a Relational Reasoning Module |-|-|
 |ziyang|-|-|-|
 |biwei|-|-|-|
 |zhaoyang|-|-|-|
