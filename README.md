@@ -13,7 +13,7 @@
 |gaojun|-|-|-|
 |cd|ACL18 AdvEntuRe: Adversarial Training for Textual Entailment with Knowledge-Guided Examples |-|-|
 |-|ACL18 Working Memory Networks- Augmenting Memory Networks with a Relational Reasoning Module |-|-|
-|ziyang|-|-|-|
+|ziyang|IJCAI2018 [SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks](https://www.ijcai.org/proceedings/2018/0618.pdf)|-|-|
 |biwei|-|-|-|
 |zhaoyang|-|-|-|
 |yahui|AAAI2015 [Self-Paced Curriculum Learning](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9750/9929)|-|-|
