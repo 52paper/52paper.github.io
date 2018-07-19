@@ -6,13 +6,13 @@
 
 --------------------
 
-### 2018/7/10 
+### 2018/7/18 
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |gaojun|[Generating Natural Answers by Incorporating Copying and Retrieving Mechanisms in Sequence-to-Sequence Learning](http://www.nlpr.ia.ac.cn/cip/shizhuhe/articles/acl2017-coreqa.pdf)|[[slide](./20180718_gaojun.pdf)]|-|
-|cd|ACL18 AdvEntuRe: Adversarial Training for Textual Entailment with Knowledge-Guided Examples |-|-|
-|-|ACL18 Working Memory Networks- Augmenting Memory Networks with a Relational Reasoning Module |-|-|
+|cd|ACL18 [AdvEntuRe: Adversarial Training for Textual Entailment with Knowledge-Guided Examples](http://aclweb.org/anthology/P18-1225) |[[slide](./20180718_jcykcai.pdf)]|-|
+|-|ACL18 [Working Memory Networks-Augmenting Memory Networks with a Relational Reasoning Module](https://arxiv.org/pdf/1805.09354.pdf) |-|-|
 |ziyang|IJCAI2018 [SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks](https://www.ijcai.org/proceedings/2018/0618.pdf)|-|-|
 |biwei|-|-|-|
 |zhaoyang|-|-|-|
