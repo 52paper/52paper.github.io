@@ -13,7 +13,7 @@
 |gaojun|ACL2017 [Generating Natural Answers by Incorporating Copying and Retrieving Mechanisms in Sequence-to-Sequence Learning](http://www.nlpr.ia.ac.cn/cip/shizhuhe/articles/acl2017-coreqa.pdf)|[[slide](./20180718_gaojun.pdf)]|-|
 |cd|ACL18 [AdvEntuRe: Adversarial Training for Textual Entailment with Knowledge-Guided Examples](http://aclweb.org/anthology/P18-1225) |[[slide](./20180718_jcykcai.pdf)]|-|
 |-|ACL18 [Working Memory Networks-Augmenting Memory Networks with a Relational Reasoning Module](https://arxiv.org/pdf/1805.09354.pdf) |-|-|
-|ziyang|IJCAI2018 [SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks](https://www.ijcai.org/proceedings/2018/0618.pdf)|-|-|
+|ziyang|IJCAI2018 [SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks](https://www.ijcai.org/proceedings/2018/0618.pdf)|[[slide](./20180719_willzychen.pdf)]|-|
 |biwei|-|-|-|
 |yahui|AAAI2015 [Self-Paced Curriculum Learning](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9750/9929)|[[slide](./20180719_amosyhliu.pdf)]|-|
 |-|ICML2018 [MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels](https://arxiv.org/abs/1712.05055)|-|-|
