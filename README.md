@@ -10,7 +10,7 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|zhaoyang|-|[slide]|-|
+|zhaoyang|ACL18 Report|[slide](https://github.com/52paper/52paper.github.io/blob/master/20180727_zhaoyang.pdf)|-|
 
 
 ### 2018/7/18 
