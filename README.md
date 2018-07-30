@@ -13,7 +13,8 @@
 |gaojun|NIPS2017 [Diverse and Accurate Image Description Using a Variational Auto-Encoder with an Additive Gaussian Encoding Space](https://papers.nips.cc/paper/7158-diverse-and-accurate-image-description-using-a-variational-auto-encoder-with-an-additive-gaussian-encoding-space.pdf)|[slide]|-|
 |cd|arXiv2018 [Response Generation by Context-aware Prototype Editing](https://arxiv.org/pdf/1806.07042.pdf)|[slide]|-|
 |-|arXiv2016 [Two are better than one: An ensemble of retrieval-and generation-based dialog systems](https://arxiv.org/pdf/1610.07149.pdf)|-|-|
-|zhaoyang|-|[slide]|-|
+|zhaoyang|ACL2018[Retrieve, Rerank and Rewrite: Soft Template Based Neural
+Summarization](http://www.aclweb.org/anthology/P18-1015)|[slide]|-|
 |ziyang|-|[slide]|-|
 |biwei|-|[slide]|-|
 |yahui|ACL2018 [Token-level and sequence-level loss smoothing for RNN language models](https://hal.inria.fr/hal-01790879/file/paper.pdf)|[slide]|-|
