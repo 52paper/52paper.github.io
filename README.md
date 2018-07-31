@@ -17,7 +17,7 @@
 |ziyang|-|[slide]|-|
 |biwei|-|[slide]|-|
 |yahui|ACL2018 [Token-level and sequence-level loss smoothing for RNN language models](https://hal.inria.fr/hal-01790879/file/paper.pdf)|[slide]|-|
-|-|arXiv2018 [Sounding Board: A User-Centric and Content-Driven Social Chatbot](https://arxiv.org/pdf/1804.10202.pdf)|[slide]|-|
+|-|arXiv2018 [Sounding Board: A User-Centric and Content-Driven Social Chatbot](https://arxiv.org/pdf/1804.10202.pdf)|-|-|
 
 ### 2018/7/27 ACL Report
 
