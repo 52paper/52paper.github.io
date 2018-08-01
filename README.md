@@ -14,7 +14,7 @@
 |cd|arXiv2018 [Response Generation by Context-aware Prototype Editing](https://arxiv.org/pdf/1806.07042.pdf)|[slide]|-|
 |-|arXiv2016 [Two are better than one: An ensemble of retrieval-and generation-based dialog systems](https://arxiv.org/pdf/1610.07149.pdf)|-|-|
 |zhaoyang|AAAI2018 [Dictionary-Guided Editing Networks for Paraphrase Generation](https://arxiv.org/pdf/1806.08077.pdf)|[[slide]](https://github.com/52paper/52paper.github.io/blob/master/zhaoyang_20180801.pdf)|-|
-|ziyang|ACL2018 [Learning to Ask Good Questions: Ranking Clarification Questions using Neural Expected Value of Perfect Information](https://arxiv.org/pdf/1805.04655.pdf)|[slide]|-|
+|ziyang|ACL2018 [Learning to Ask Good Questions: Ranking Clarification Questions using Neural Expected Value of Perfect Information](https://arxiv.org/pdf/1805.04655.pdf)|[slide](./20180801_willzychen.pdf)|-|
 |biwei|-|-|-|
 |yahui|ACL2018 [Token-level and sequence-level loss smoothing for RNN language models](https://hal.inria.fr/hal-01790879/file/paper.pdf)|[[slide]](./20180801_amosyhliu.pdf)|-|
 |-|arXiv2018 [Sounding Board: A User-Centric and Content-Driven Social Chatbot](https://arxiv.org/pdf/1804.10202.pdf)|-|-|
