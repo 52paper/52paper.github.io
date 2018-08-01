@@ -16,7 +16,7 @@
 |zhaoyang|AAAI2018 [Dictionary-Guided Editing Networks for Paraphrase Generation](https://arxiv.org/pdf/1806.08077.pdf)|[slide]|-|
 |ziyang|ACL2018 [Learning to Ask Good Questions: Ranking Clarification Questions using Neural Expected Value of Perfect Information](https://arxiv.org/pdf/1805.04655.pdf)|[slide]|-|
 |biwei|-|[slide]|-|
-|yahui|ACL2018 [Token-level and sequence-level loss smoothing for RNN language models](https://hal.inria.fr/hal-01790879/file/paper.pdf)|[slide]|-|
+|yahui|ACL2018 [Token-level and sequence-level loss smoothing for RNN language models](https://hal.inria.fr/hal-01790879/file/paper.pdf)|[[slide]](./20180801_amosyhliu.pdf)|-|
 |-|arXiv2018 [Sounding Board: A User-Centric and Content-Driven Social Chatbot](https://arxiv.org/pdf/1804.10202.pdf)|-|-|
 
 ### 2018/7/27 ACL Report
