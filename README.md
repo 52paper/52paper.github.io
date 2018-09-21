@@ -5,7 +5,13 @@
 - attender希望都能够提前把分享的paper至少通读一遍，积极提出问题及参与discussion。
 
 --------------------
+### 2018/9/21
 
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|cd|NIPS2018 Generating Informative and Diverse Conversational Responses via Adversarial Information Maximization|[[slide]](./20180921_jcykcai.pdf)|-|
+||EMNLP2017 Sequential Matching Network-A New Architecture for Multi-turn Response Selection in Retrieval-Based Chatbots||-|
+|zhaoyang|ACL2018 Learning to Control the Specificity in Neural Response Generation||-|
 ### 2018/8/1 
 
 |Speakers|Papers|Slides|Others|
