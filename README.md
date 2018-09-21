@@ -11,7 +11,7 @@
 |:----:|:----|:----:|:-----:|
 |cd|NIPS2018 Generating Informative and Diverse Conversational Responses via Adversarial Information Maximization|[[slide]](./20180921_jcykcai.pdf)|-|
 ||EMNLP2017 Sequential Matching Network-A New Architecture for Multi-turn Response Selection in Retrieval-Based Chatbots||-|
-|zhaoyang|ACL2018 Learning to Control the Specificity in Neural Response Generation||-|
+|zhaoyang|ACL2018 Learning to Control the Specificity in Neural Response Generation|[[slide]](https://github.com/52paper/52paper.github.io/blob/master/zhaoyang_20180801.pdf)|-|
 ### 2018/8/1 
 
 |Speakers|Papers|Slides|Others|
