@@ -6,6 +6,12 @@
 
 --------------------
 
+### 2018/7/27 ACL Report
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|zhaoyang|ACL18 Report|[slide](https://github.com/52paper/52paper.github.io/blob/master/20180727_zhaoyang.pdf)|-|
+
 ### 2018/10/11
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
