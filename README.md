@@ -10,7 +10,7 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|zhaoyang|ACL18 Report|[slide](https://github.com/52paper/52paper.github.io/blob/master/20180727_zhaoyang.pdf)|-|
+|zhaoyang|ACL2017 [Neural Belief Tracker: Data-Driven Dialogue State Tracking](http://aclweb.org/anthology/P17-1163 )|[slide](https://github.com/52paper/52paper.github.io/blob/master/20180727_zhaoyang.pdf)|-|
 
 ### 2018/10/11
 |Speakers|Papers|Slides|Others|
