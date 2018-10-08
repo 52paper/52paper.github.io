@@ -5,12 +5,12 @@
 - attender希望都能够提前把分享的paper至少通读一遍，积极提出问题及参与discussion。
 
 --------------------
+
 ### 2019/10/11
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |lixin|ACL2017 [Neural Belief Tracker: Data-Driven Dialogue State Tracking](http://aclweb.org/anthology/P17-1163 )|-|-|
 |-|ACL2018 [Global-Locally Self-Attentive Encoder for Dialogue State Tracking](http://aclweb.org/anthology/P18-1135)|-|-|
-
 
 ### 2018/9/21
 
