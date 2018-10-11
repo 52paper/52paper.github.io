@@ -10,7 +10,7 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|lixin|ACL2017 [Neural Belief Tracker: Data-Driven Dialogue State Tracking](http://aclweb.org/anthology/P17-1163 )|-|-|
+|lixin|ACL2017 [Neural Belief Tracker: Data-Driven Dialogue State Tracking](http://aclweb.org/anthology/P17-1163 )|[[slide]](./20181011_lixin.pdf)|-|
 |-|ACL2018 [Global-Locally Self-Attentive Encoder for Dialogue State Tracking](http://aclweb.org/anthology/P18-1135)|-|-|
 |-|ICASSP2018 [Adversarial Actor-Critic Model For Task-Completion Dialogue Policy Learning](https://arxiv.org/pdf/1710.11277.pdf)|-|-|
 |-|ACL2018 [Deep Dyna-Q: Integrating Planning for Task-Completion Dialogue Policy Learning](http://aclweb.org/anthology/P18-1203)|-|-|
