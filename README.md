@@ -6,6 +6,12 @@
 
 --------------------
 
+### 2018/10/25
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|gaoyifan|ACL2018 [Harvesting Paragraph-Level Question-Answer Pairs from Wikipedia](http://aclweb.org/anthology/P18-1177)|[[slide]](./20181025_evanyfgao.pdf)|-|
+
+
 ### 2018/10/18
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
@@ -30,7 +36,7 @@
 ||EMNLP2017 Sequential Matching Network-A New Architecture for Multi-turn Response Selection in Retrieval-Based Chatbots||-|
 |zhaoyang|ACL2018 Learning to Control the Specificity in Neural Response Generation|[[slide]](https://github.com/52paper/52paper.github.io/blob/master/zhaoyang_20180801.pdf)|-|
 
-### 2018/8/1 
+### 2018/8/1
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
@@ -50,7 +56,7 @@
 |zhaoyang|ACL18 Report|[slide](https://github.com/52paper/52paper.github.io/blob/master/20180727_zhaoyang.pdf)|-|
 
 
-### 2018/7/18 
+### 2018/7/18
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
@@ -92,7 +98,7 @@
   1. Why Seq2seq is better than the previous language model methods in generating language sequence. Why GAN is better than standard Seq2seq?
   2. GAN has been successfully appllied to many new image tasks, such as image generation. What are the best tasks of GAN for text?
   3. Why GAN has no break-through on text yet? All possible reasons.
-  
+
 |Lecturers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |cd|Implement Adversarial Training for Text Generation (motivations and technologies)|[[slide]](./20180621_jcykcai.pdf)|-|
