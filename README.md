@@ -6,6 +6,13 @@
 
 --------------------
 
+### 2018/10/18
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|gaojun|NAACL2017 [Deep contextualized word representations](http://aclweb.org/anthology/N18-1202)|[[slide]](./20181018_gaojun.pdf)|-|
+|-|Arxiv2018 [Improving Language Understanding by Generative Pre-Training](https://arxiv.org/pdf/1810.04805.pdf)|-|-|
+|-|Arxiv2018 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)|-|-|
+
 ### 2018/10/11
 
 |Speakers|Papers|Slides|Others|
