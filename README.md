@@ -7,12 +7,14 @@
 --------------------
 
 ### 2018/10/25
+
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |gaoyifan|ACL2018 [Harvesting Paragraph-Level Question-Answer Pairs from Wikipedia](http://aclweb.org/anthology/P18-1177)|[[slide]](./20181025_evanyfgao.pdf)|-|
 
 
 ### 2018/10/18
+
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |gaojun|NAACL2017 [Deep contextualized word representations](http://aclweb.org/anthology/N18-1202)|[[slide]](./20181018_gaojun.pdf)|-|
