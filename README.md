@@ -11,7 +11,7 @@
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |gaoyifan|ACL2018 [Harvesting Paragraph-Level Question-Answer Pairs from Wikipedia](http://aclweb.org/anthology/P18-1177)|[[slide]](./20181025_evanyfgao.pdf)|-|
-|shangmingyue|NIPS2017 [Adversarial Ranking for Language Generation](https://arxiv.org/pdf/1705.11001.pdf)|[[slide]](./RankGan+LeakGan.pdf)|-|
+|shangmingyue|NIPS2017 [Adversarial Ranking for Language Generation](https://arxiv.org/pdf/1705.11001.pdf)|[[slide]](./RankGAN+LeakGAN.pdf)|-|
 |-|AAAI2018 [Long Text Generation via Adversarial Training with Leaked Information](https://arxiv.org/pdf/1709.08624.pdf)|-|-|
 
 
