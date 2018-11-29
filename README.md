@@ -6,6 +6,14 @@
 
 --------------------
 
+### 2018/11/29
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|zhufengpan|COLING2016 [Non-sentential Question Resolution using Sequence to Sequence Learning](https://pdfs.semanticscholar.org/269e/d5ba525519502123b58472e069d77c5bda14.pdf)|[[slide]](./20181129_zhufengpan.pdf)|-|
+|-|SIGIR2017 [Incomplete Follow-up question Resolution using Retrieval based Sequence to Sequence Learning](https://dl.acm.org/citation.cfm?id=3080801)|-|[[dataset]](https://github.com/vineetm/siri-incomplete-questions)|
+
+
 ### 2018/10/25
 
 |Speakers|Papers|Slides|Others|
