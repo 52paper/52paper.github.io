@@ -13,6 +13,12 @@
 |zhufengpan|COLING2016 [Non-sentential Question Resolution using Sequence to Sequence Learning](https://pdfs.semanticscholar.org/269e/d5ba525519502123b58472e069d77c5bda14.pdf)|[[slide]](./20181129_zhufengpan.pdf)|-|
 |-|SIGIR2017 [Incomplete Follow-up question Resolution using Retrieval based Sequence to Sequence Learning](https://dl.acm.org/citation.cfm?id=3080801)|-|[[dataset]](https://github.com/vineetm/siri-incomplete-questions)|
 
+### 2018/11/23
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|alexyzhao|TBA|TBA|-|
+|jcykcai|NIPS2018 [Deep Generative Models with Learnable Knowledge Constraints](https://arxiv.org/pdf/1806.09764.pdf)|[[slide]](./jcykcai1123.pdf)|-|
 
 ### 2018/10/25
 
