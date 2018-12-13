@@ -5,6 +5,10 @@
 - attender希望都能够提前把分享的paper至少通读一遍，积极提出问题及参与discussion。
 
 --------------------
+### 2018/12/13
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|gaoyifan|AAAI19 [A Multi-Agent Communication Framework for Question-Worthy Phrase Extraction and Question Generation](http://www.sdspeople.fudan.edu.cn/zywei/paper/2019/wang-aaai-2019.pdf)|[[slide]](./20181213_evanyfgao.pdf)|-|
 
 ### 2018/11/29
 
