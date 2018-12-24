@@ -6,6 +6,13 @@
 
 --------------------
 ### 2018/12/13
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|lixin|EMNLP2018 [Semi-Supervised Learning for Neural Keyphrase Generation](http://aclweb.org/anthology/D18-1447)|[[slide]](./20181220_lixin.pdf)|-|
+
+### 2018/12/13
+
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |gaoyifan|AAAI19 [A Multi-Agent Communication Framework for Question-Worthy Phrase Extraction and Question Generation](http://www.sdspeople.fudan.edu.cn/zywei/paper/2019/wang-aaai-2019.pdf)|[[slide]](./20181213_evanyfgao.pdf)|-|
