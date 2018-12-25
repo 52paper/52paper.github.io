@@ -9,7 +9,7 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|yxsu|EMNLP2018 [Semi-Supervised Learning for Neural Keyphrase Generation](http://aclweb.org/anthology/D18-1447)|[[slide]](./20181220_lixin.pdf)|-|
+|yxsu|SIGHAN2018 [Group Linguistic Bias Aware Neural Response Generation](http://www.aclweb.org/anthology/W17-6001)|[[slide]]()|-|
 |||||
 
 ### 2018/12/13
