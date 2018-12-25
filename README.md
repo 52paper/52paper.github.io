@@ -5,6 +5,13 @@
 - attender希望都能够提前把分享的paper至少通读一遍，积极提出问题及参与discussion。
 
 --------------------
+### 2018/12/27
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|yxsu|EMNLP2018 [Semi-Supervised Learning for Neural Keyphrase Generation](http://aclweb.org/anthology/D18-1447)|[[slide]](./20181220_lixin.pdf)|-|
+|||||
+
 ### 2018/12/13
 
 |Speakers|Papers|Slides|Others|
