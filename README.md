@@ -12,7 +12,7 @@
 |yxsu|SIGHAN2018 [Group Linguistic Bias Aware Neural Response Generation](http://www.aclweb.org/anthology/W17-6001)|[[slide]](./20181227_yxsu.pdf)|-|
 |||||
 
-### 2018/12/13
+### 2018/12/20
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
