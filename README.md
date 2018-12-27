@@ -10,7 +10,7 @@
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |yxsu|SIGHAN2018 [Group Linguistic Bias Aware Neural Response Generation](http://www.aclweb.org/anthology/W17-6001)|[[slide]](./20181227_yxsu.pdf)|-|
-|||||
+|Shangmingyue|Arxiv2018 [Dialogue Natural Language Inference](https://arxiv.org/pdf/1811.00671.pdf)|[[slide]](./20181227_mingyue.pdf)|-|
 
 ### 2018/12/20
 
