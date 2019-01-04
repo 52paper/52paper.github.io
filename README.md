@@ -5,6 +5,14 @@
 - attender希望都能够提前把分享的paper至少通读一遍，积极提出问题及参与discussion。
 
 --------------------
+### 2019/01/10
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|zhuqile|ICLR2019 [Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow](https://openreview.net/forum?id=HyxPx3R9tm)|[[slide]](./20181227_yxsu.pdf)|-|
+|-|ICLR2017 [Deep Variational Information Bottleneck](https://openreview.net/forum?id=HyxQzBceg)|-|-|
+
+
 ### 2018/12/27
 
 |Speakers|Papers|Slides|Others|
