@@ -11,6 +11,7 @@
 |:----:|:----|:----:|:-----:|
 |zhuqile|ICLR2019 [Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow](https://openreview.net/forum?id=HyxPx3R9tm)|[[slide]](./20181227_yxsu.pdf)|-|
 |-|ICLR2017 [Deep Variational Information Bottleneck](https://openreview.net/forum?id=HyxQzBceg)|-|-|
+|jiangtongli|COLING2018 [Modeling Multi-turn Conversation with Deep Utterance Aggregation](https://arxiv.org/pdf/1806.09102.pdf)|[slide]|-|
 
 
 ### 2018/12/27
