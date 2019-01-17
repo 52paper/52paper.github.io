@@ -9,7 +9,8 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|zhuqile|ICLR2019 []()|[[slide]](./20190118_zhuqile.pdf)|-|
+|zhuqile|ICLR2019 [Recent Advances in Autoencoder-Based
+Representation Learning](https://arxiv.org/abs/1812.05069)|[[slide]](./20190118_zhuqile.pdf)|-|
 |jiangtongli|ICLR2019 [Pay Less Attention with Lightweight and Dynamic Convolutions](https://openreview.net/pdf?id=SkVhlh09tX)|[[slide]](./20190118_jiangtongli.pdf)|-|
 
 ### 2019/01/10
