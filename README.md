@@ -5,6 +5,12 @@
 - attender希望都能够提前把分享的paper至少通读一遍，积极提出问题及参与discussion。
 
 --------------------
+### 2019/03/21
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|gaojun|NIPS2018 [Content preserving text generation with attribute controls](http://papers.nips.cc/paper/7757-content-preserving-text-generation-with-attribute-controls.pdf)|[[slide]](./20190321_gaojun.pdf)|-|
+
 ### 2019/01/18
 
 |Speakers|Papers|Slides|Others|
