@@ -9,6 +9,13 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
+|yxsu|TACL2018 [Polite Dialogue Generation Without Parallel Data](https://arxiv.org/abs/1805.03162)|[[slide]]()|-|
+
+
+### 2019/03/21
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
 |gaojun|NIPS2018 [Content preserving text generation with attribute controls](http://papers.nips.cc/paper/7757-content-preserving-text-generation-with-attribute-controls.pdf)|[[slide]](./20190321_gaojun.pdf)|-|
 |hongyining|EMNLP2017 [Challenges in Data-to-Document Generation ](https://arxiv.org/pdf/1707.08052.pdf) |[[slide]](./20190321_yining.pdf)|-|
 |-| [Data-to-Text Generation with Content Selection and Planning](https://arxiv.org/pdf/1809.00582.pdf)|-|-|
