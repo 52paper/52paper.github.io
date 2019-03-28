@@ -9,7 +9,7 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|yxsu|TACL2018 [Polite Dialogue Generation Without Parallel Data](https://arxiv.org/abs/1805.03162)|[[slide]]()|-|
+|yxsu|TACL2018 [Polite Dialogue Generation Without Parallel Data](https://arxiv.org/abs/1805.03162)|[[slide]](./20190328_yxsu.pdf)|-|
 
 
 ### 2019/03/21
