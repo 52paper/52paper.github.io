@@ -5,7 +5,17 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 --------------------
-### 2019/03/21
+
+### Next Meeting
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|jcykcai|AAAI17 [Mechanism-Aware Neural Machine for Dialogue Response Generation](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14471/14267)|[[slide]](./20190404_jcykcai.pdf)|-|
+|-|ACL18 [Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation](https://www.aclweb.org/anthology/P18-1101)|-|-|
+|-|EMNLP18 [Learning Neural Templates for Text Generation](https://aclweb.org/anthology/D18-1356)|-|-|
+
+
+### 2019/03/28
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
