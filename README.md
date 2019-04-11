@@ -6,7 +6,14 @@
 
 --------------------
 
-### Next Meeting
+### 2019/04/11
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|royrong(荣钰)| [Representation Learning on Graphs](./20190411_rongyu.pdf)|[[slide]](./20190411_rongyu.pdf)|-|
+
+
+### 2019/04/04
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
