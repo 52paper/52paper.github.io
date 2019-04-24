@@ -6,6 +6,13 @@
 
 --------------------
 
+### 2019/04/24
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|evanyfgao(高一帆)| [Reasoning in Multi-hop Reading Comprehension](./20190425-evanyfgao-reasoning.pdf)|[[slide]](./20190425-evanyfgao-reasoning.pdf)|-|
+
+
 ### 2019/04/11
 
 |Speakers|Papers|Slides|Others|
