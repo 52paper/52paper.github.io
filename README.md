@@ -5,6 +5,11 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 --------------------
+### 2019/05/09
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|lixin| [The Curious Case of Neural Text Degeneration](https://arxiv.org/pdf/1904.09751.pdf)|[[slide]]()|-|
 
 ### 2019/04/24
 
