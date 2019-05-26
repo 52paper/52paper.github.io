@@ -9,7 +9,7 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|lixin| [The Curious Case of Neural Text Degeneration](https://arxiv.org/pdf/1904.09751.pdf)|[[slide]]()|-|
+|lixin| [The Curious Case of Neural Text Degeneration](https://arxiv.org/pdf/1904.09751.pdf)|[[slide]](./20190509_lixin.pdf)|-|
 
 ### 2019/04/24
 
@@ -78,6 +78,7 @@
 |:----:|:----|:----:|:-----:|
 |lixin|EMNLP2018 [Semi-Supervised Learning for Neural Keyphrase Generation](http://aclweb.org/anthology/D18-1447)|[[slide]](./20181220_lixin.pdf)|-|
 |gaojun|ACL2018 [Hierarchical Neural Story Generation](http://www.aclweb.org/anthology/P18-1082)|[[slide]](./20181220_gaojun.pdf)|-|
+
 ### 2018/12/13
 
 |Speakers|Papers|Slides|Others|
