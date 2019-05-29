@@ -5,6 +5,15 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 --------------------
+### 2019/05/30
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|jiachendu|ICLR 2019 [LEARNING TO REPRESENT EDITS](https://arxiv.org/pdf/1810.13337.pdf)|[[slide]](./20190530-jiachendu-edit.pdf)|-|
+|-|[Text Infilling](https://arxiv.org/pdf/1901.00158.pdf)|-|-|
+|-|[TIGS: An Inference Algorithm for Text Infilling with Gradient Search](https://arxiv.org/pdf/1905.10752v1.pdf)|-|-|
+
+
 ### 2019/05/09
 
 |Speakers|Papers|Slides|Others|
