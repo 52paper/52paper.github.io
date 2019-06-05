@@ -9,6 +9,14 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
+|gaojun|-[The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation](https://www.aclweb.org/anthology/P18-1008)|-|-|
+|-|[How Much Attention Do You Need? A Granular Analysis of Neural Machine Translation Architectures](https://aclweb.org/anthology/P18-1167)|-|-|
+|-|[Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures](https://aclweb.org/anthology/D18-1458)|-|-|
+
+### 2019/05/30
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
 |jiachendu|ICLR 2019 [LEARNING TO REPRESENT EDITS](https://arxiv.org/pdf/1810.13337.pdf)|[[slide]](./20190530-jiachendu-edit.pdf)|-|
 |-|[Text Infilling](https://arxiv.org/pdf/1901.00158.pdf)|-|-|
 |-|[TIGS: An Inference Algorithm for Text Infilling with Gradient Search](https://arxiv.org/pdf/1905.10752v1.pdf)|-|-|
