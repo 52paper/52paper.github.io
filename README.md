@@ -9,7 +9,7 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|gaojun|-[The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation](https://www.aclweb.org/anthology/P18-1008)|-|-|
+|gaojun|[The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation](https://www.aclweb.org/anthology/P18-1008)|-|-|
 |-|[How Much Attention Do You Need? A Granular Analysis of Neural Machine Translation Architectures](https://aclweb.org/anthology/P18-1167)|-|-|
 |-|[Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures](https://aclweb.org/anthology/D18-1458)|-|-|
 
