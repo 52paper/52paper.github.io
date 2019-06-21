@@ -3,7 +3,6 @@
 - 时间暂定是周4下午。 如果人不齐的话提前告知，视情况再确定时间。
 - 分享的同学务必提前告知大家分享的论文，并在分享前update paper信息及slides到 [52paper.github.io](https://52paper.github.io/)；新人权限开通请联系jamgao。
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
---------------------
 
 ### Next Meeting
 
@@ -15,7 +14,7 @@
 |-|arxiv19 [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf)|-|-|
 |-|ACL2019 [Towards Explainable NLP-A Generative Explanation Framework for Text Classification.pdf](https://arxiv.org/pdf/1811.00196.pdf)|-|-|
 
-### 2019/05/30
+### 2019/06/XX
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
