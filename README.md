@@ -11,6 +11,7 @@
 |jcykcai|ICML2019 [Insertion Transformer: Flexible Sequence Generation via Insertion Operations](https://arxiv.org/pdf/1902.03249.pdf)|-|-|
 |-|ICML2019 [Non-Monotonic Sequential Text Generation](https://arxiv.org/pdf/1902.02192.pdf)|-|-|
 |-|arxiv19 [Insertion-based Decoding with automatically Inferred Generation Order](https://arxiv.org/pdf/1902.01370.pdf)|-|-|
+|-|EMNLP18 [The Importance of Generation Order in Language Modeling](https://aclweb.org/anthology/D18-1324)|-|-|
 |-|arxiv19 [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf)|-|-|
 |-|ACL2019 [Towards Explainable NLP-A Generative Explanation Framework for Text Classification.pdf](https://arxiv.org/pdf/1811.00196.pdf)|-|-|
 
