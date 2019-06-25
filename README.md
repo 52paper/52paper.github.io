@@ -15,13 +15,14 @@
 |-|arxiv19 [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf)|-|-|
 |-|ACL2019 [Towards Explainable NLP-A Generative Explanation Framework for Text Classification.pdf](https://arxiv.org/pdf/1811.00196.pdf)|-|-|
 
-### 2019/06/XX
+### 2019/06/17
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |gaojun|[The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation](https://www.aclweb.org/anthology/P18-1008)|-|-|
 |-|[How Much Attention Do You Need? A Granular Analysis of Neural Machine Translation Architectures](https://aclweb.org/anthology/P18-1167)|-|-|
 |-|[Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures](https://aclweb.org/anthology/D18-1458)|-|-|
+|-|[Argument Generation with Retrieval, Planning, and Realization](https://arxiv.org/abs/1906.03717)|-|-|
 
 ### 2019/05/30
 
