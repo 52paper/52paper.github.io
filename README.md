@@ -8,8 +8,8 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|jcykcai|Rethinking the generation orders of sequence|[[slide]](./20190628-jcykcai.pdf)|-|
-|jcykcai|ICML2019 [Insertion Transformer: Flexible Sequence Generation via Insertion Operations](https://arxiv.org/pdf/1902.03249.pdf)|-|-|
+|jcykcai|Rethinking the generation orders of sequence|[[slide]](./20190628_jcykcai.pdf)|-|
+||ICML2019 [Insertion Transformer: Flexible Sequence Generation via Insertion Operations](https://arxiv.org/pdf/1902.03249.pdf)|-|-|
 |-|ICML2019 [Non-Monotonic Sequential Text Generation](https://arxiv.org/pdf/1902.02192.pdf)|-|-|
 |-|arxiv19 [Insertion-based Decoding with automatically Inferred Generation Order](https://arxiv.org/pdf/1902.01370.pdf)|-|-|
 |-|EMNLP18 [The Importance of Generation Order in Language Modeling](https://aclweb.org/anthology/D18-1324)|-|-|
