@@ -4,16 +4,16 @@
 - 分享的同学务必提前告知大家分享的论文，并在分享前update paper信息及slides到 [52paper.github.io](https://52paper.github.io/)；新人权限开通请联系jamgao。
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
-### Next Meeting
+### 2019/06/28
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
+|jcykcai|Rethinking the generation orders of sequence|[[slide]](./20190628-jcykcai.pdf)|-|
 |jcykcai|ICML2019 [Insertion Transformer: Flexible Sequence Generation via Insertion Operations](https://arxiv.org/pdf/1902.03249.pdf)|-|-|
 |-|ICML2019 [Non-Monotonic Sequential Text Generation](https://arxiv.org/pdf/1902.02192.pdf)|-|-|
 |-|arxiv19 [Insertion-based Decoding with automatically Inferred Generation Order](https://arxiv.org/pdf/1902.01370.pdf)|-|-|
 |-|EMNLP18 [The Importance of Generation Order in Language Modeling](https://aclweb.org/anthology/D18-1324)|-|-|
 |-|arxiv19 [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf)|-|-|
-|-|ACL2019 [Towards Explainable NLP-A Generative Explanation Framework for Text Classification.pdf](https://arxiv.org/pdf/1811.00196.pdf)|-|-|
 
 ### 2019/06/17
 
