@@ -7,10 +7,10 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|zltian|Triples-to-text generation & its pre-training|[[slide]](./20190704-weiwang-story.pdf)|-|
-|-|INLG2018 [A Skeleton-Based Model for Promoting Coherence Among Sentences in Narrative Story Generation](https://arxiv.org/pdf/1808.06945.pdf)|-|-|
-|-|NAACL2019 [Plan-And-Write: Towards Better Automatic Storytelling](https://arxiv.org/pdf/1811.05701.pdf)|-|-|
-|-|NIPS(Workshop)2016 [Strategies for Structuring Story Generation](https://arxiv.org/pdf/1902.01109v1.pdf)|-|-|
+|zltian|Triples-to-text generation & its pre-training|[[slide]](./slides_zltian.pdf)|-|
+|-|INLG2018 [Deep Graph Convolutional Encoders for Structured Data to Text Generation](https://www.aclweb.org/anthology/W18-6501)|-|-|
+|-|NAACL2019 [Step-by-Step: Separating Planning from Realization in Neural Data-to-Text Generation](https://www.aclweb.org/anthology/N19-1236)|-|-|
+|-|NIPS(Workshop)2016 [Variational Graph Auto-Encoders](http://bayesiandeeplearning.org/2016/papers/BDL_16.pdf)|-|-|
 
 ### 2019/07/04
 
