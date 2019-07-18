@@ -3,6 +3,15 @@
 - 时间暂定是周4下午。 如果人不齐的话提前告知，视情况再确定时间。
 - 分享的同学务必提前告知大家分享的论文，并在分享前update paper信息及slides到 [52paper.github.io](https://52paper.github.io/)；新人权限开通请联系jamgao。
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
+
+### 2019/07/18
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|jiangtongli|Some research progress on sequence generation|[[slide]](./20190718_jiangtongli.pdf)|-|
+|-|Arxiv 2015 [How (not) to Train your Generative Model: Scheduled Sampling, Likelihood, Adversary?](https://arxiv.org/abs/1511.05101)|-|-|
+|-|ICML2019 [CoT: Cooperative Training for Generative Modeling of Discrete Data](https://arxiv.org/pdf/1804.03782.pdf)|-|-|
+|-|ICLR2019 [Improving Sequence-to-Sequence Learning via Optimal Transport](https://arxiv.org/abs/1901.06283)|-|-|
+
 ### 2019/07/11
 
 |Speakers|Papers|Slides|Others|
