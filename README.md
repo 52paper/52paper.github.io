@@ -12,6 +12,7 @@
 |-|ACL2019 [Interpretable Neural Predictions with Differentiable Binary Variables](https://arxiv.org/abs/1905.08160)|-|-|
 
 ### 2019/07/18
+
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |jiangtongli|Some research progress on sequence generation|[[slide]](./20190718_jiangtongli.pdf)|-|
