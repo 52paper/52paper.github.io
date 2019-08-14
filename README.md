@@ -5,6 +5,18 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 ### Next Meeting
 
+### 2019/08/15
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|jiangtongli|ACL Report|[[slide]](./20190815_jiangtongli.pdf)|-|
+|-|ACL2019 [Bridging the Gap between Training and Inference for Neural Machine Translation](https://arxiv.org/pdf/1906.02448.pdf)|-|-|
+|-|ACL2019 [OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs](https://research.fb.com/wp-content/uploads/2019/07/OpenDialKG-Explainable-Conversational-Reasoning-with-Attention-based-Walks-over-Knowledge-Graphs.pdf?)|-|-|
+|-|ACL2019 [Do Neural Dialog Systems Use the Conversation History Effectively? An Empirical Study](https://arxiv.org/pdf/1906.01603.pdf)|-|-|
+|-|ACL2019 [Generating Fluent Adversarial Examples for Natural Languages](https://www.aclweb.org/anthology/P19-1559)|-|-|
+|-|ACL2019 [Dynamically Fused Graph Network for Multi-hop Reasoning](https://www.aclweb.org/anthology/P19-1617)|-|-|
+|-|ACL2019 [Multi-step Reasoning via Recurrent Dual Attention for Visual Dialog](https://www.aclweb.org/anthology/P19-1648)|-|-|
+
+### 2019/07/25
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |jcykcai||[[slide]](./jcykcai0724.pdf)|-|
