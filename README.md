@@ -5,6 +5,17 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 ### Next Meeting
 
+
+### 2019/08/22
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|qintongli||[[slide]](./20190822_qintongli.pdf)|-|
+|-|AAAI2018 [Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory](http://arxiv.org/abs/1704.01074)|-|-|
+|-|ACL2018 [MOJITALK: Generating Emotional Responses at Scale](https://arxiv.org/abs/1711.04090)|-|-|
+|-|AAAI2019 [An Affect-Rich Neural Conversational Model with Biased Attention and Weighted Cross-Entropy Loss](https://arxiv.org/abs/1811.07078)|-|-|
+
+
+
 ### 2019/08/15
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
