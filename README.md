@@ -5,6 +5,14 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 ### Next Meeting
 
+### 2019/09/10
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|jimblin||[[slide]](./20190910_jimblin.pdf)|-|
+|-|ACL2018 [Multi-Turn Response Selection for Chatbots with Deep Attention Matching Network](https://aclweb.org/anthology/P18-1103/)|-|-|
+|-|ACL2019 [One Time of Interaction May Not Be Enough: Go Deep with an Interaction-over-Interaction Network for Response Selection in Dialogues](https://www.aclweb.org/anthology/P19-1001/)|-|-|
+|-|ACL2019 [Constructing Interpretive Spatio-Temporal Features for Multi-Turn Response Selection](https://www.aclweb.org/anthology/P19-1006/)|-|-|
+
 
 ### 2019/08/22
 |Speakers|Papers|Slides|Others|
