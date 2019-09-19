@@ -5,6 +5,14 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 ### Next Meeting
 
+### 2019/09/19
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|hgong||[[slide]](./20190919_hgong.pdf)|-|
+|-|AAAI2019 [Data-to-Text Generation with Content Selection and Planning](https://arxiv.org/pdf/1809.00582.pdf)|-|-|
+|-|ACL2019 [Data-to-text Generation with Entity Modeling](https://www.aclweb.org/anthology/P19-1195/)|-|-|
+|-|ACL2019 [Learning to Select, Track, and Generate for Data-to-Text](https://www.aclweb.org/anthology/P19-1202/)|-|-|
+
 ### 2019/09/10
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
