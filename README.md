@@ -8,7 +8,7 @@
 ### 2019/09/19
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|hgong||[[slide]](./20190919_hgong.pdf)|-|
+|hgong|-|[[slide]](./20190919_hgong.pdf)|-|
 |-|AAAI2019 [Data-to-Text Generation with Content Selection and Planning](https://arxiv.org/pdf/1809.00582.pdf)|-|-|
 |-|ACL2019 [Data-to-text Generation with Entity Modeling](https://www.aclweb.org/anthology/P19-1195/)|-|-|
 |-|ACL2019 [Learning to Select, Track, and Generate for Data-to-Text](https://www.aclweb.org/anthology/P19-1202/)|-|-|
@@ -16,7 +16,7 @@
 ### 2019/09/10
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|jimblin||[[slide]](./20190910_jimblin.pdf)|-|
+|jimblin|-|[[slide]](./20190910_jimblin.pdf)|-|
 |-|ACL2018 [Multi-Turn Response Selection for Chatbots with Deep Attention Matching Network](https://aclweb.org/anthology/P18-1103/)|-|-|
 |-|ACL2019 [One Time of Interaction May Not Be Enough: Go Deep with an Interaction-over-Interaction Network for Response Selection in Dialogues](https://www.aclweb.org/anthology/P19-1001/)|-|-|
 |-|ACL2019 [Constructing Interpretive Spatio-Temporal Features for Multi-Turn Response Selection](https://www.aclweb.org/anthology/P19-1006/)|-|-|
@@ -25,7 +25,7 @@
 ### 2019/08/22
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|qintongli||[[slide]](./20190822_qintongli.pdf)|-|
+|qintongli|-|[[slide]](./20190822_qintongli.pdf)|-|
 |-|AAAI2018 [Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory](http://arxiv.org/abs/1704.01074)|-|-|
 |-|ACL2018 [MOJITALK: Generating Emotional Responses at Scale](https://arxiv.org/abs/1711.04090)|-|-|
 |-|AAAI2019 [An Affect-Rich Neural Conversational Model with Biased Attention and Weighted Cross-Entropy Loss](https://arxiv.org/abs/1811.07078)|-|-|
@@ -46,7 +46,7 @@
 ### 2019/07/25
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|jcykcai||[[slide]](./jcykcai0724.pdf)|-|
+|jcykcai|-|[[slide]](./jcykcai0724.pdf)|-|
 |-|ACL2019 [Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned](https://arxiv.org/abs/1905.09418)|-|-|
 |-|ACL2019 [Interpretable Neural Predictions with Differentiable Binary Variables](https://arxiv.org/abs/1905.08160)|-|-|
 
