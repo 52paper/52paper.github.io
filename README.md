@@ -6,6 +6,7 @@
 ### Next Meeting
 
 ### 2019/09/19
+
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |hgong|-|[[slide]](./20190919_hgong.pdf)|-|
@@ -14,6 +15,7 @@
 |-|ACL2019 [Learning to Select, Track, and Generate for Data-to-Text](https://www.aclweb.org/anthology/P19-1202/)|-|-|
 
 ### 2019/09/10
+
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |jimblin|-|[[slide]](./20190910_jimblin.pdf)|-|
@@ -23,6 +25,7 @@
 
 
 ### 2019/08/22
+
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |qintongli|-|[[slide]](./20190822_qintongli.pdf)|-|
@@ -30,9 +33,8 @@
 |-|ACL2018 [MOJITALK: Generating Emotional Responses at Scale](https://arxiv.org/abs/1711.04090)|-|-|
 |-|AAAI2019 [An Affect-Rich Neural Conversational Model with Biased Attention and Weighted Cross-Entropy Loss](https://arxiv.org/abs/1811.07078)|-|-|
 
-
-
 ### 2019/08/15
+
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |jiangtongli|ACL Report|[[slide]](./20190815_jiangtongli.pdf)|-|
@@ -44,6 +46,7 @@
 |-|ACL2019 [Multi-step Reasoning via Recurrent Dual Attention for Visual Dialog](https://www.aclweb.org/anthology/P19-1648)|-|-|
 
 ### 2019/07/25
+
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |jcykcai|-|[[slide]](./jcykcai0724.pdf)|-|
