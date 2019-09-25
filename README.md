@@ -5,6 +5,14 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 ### Next Meeting
 
+### 2019/07/04
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|rickwwang|Some Research Progress on Story Generation|[[slide]](./20190926-weiwang-story.pdf)|-|
+|-|CoNLL2019 [Do Massively Pretrained Language Models Make Better Storytellers? ](https://arxiv.org/pdf/1909.10705.pdf)|-|-|
+|-|EMNLP2019 [Counterfactual Story Reasoning and Generation ](https://arxiv.org/pdf/1909.04076.pdf)|-|-|
+
 ### 2019/09/19
 
 |Speakers|Papers|Slides|Others|
