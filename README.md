@@ -5,6 +5,14 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 ### Next Meeting
 
+### 2019/12/25
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|rickywchen|Dialogue Summarization|[[slide]](./20191225_rickywchen.pdf)|-|
+|-|ACL2019 (short) [Keep Meeting Summaries on Topic: Abstractive Multi-Modal Meeting Summarization](https://www.aclweb.org/anthology/P19-1210.pdf)|-|-|
+|-|KDD2019 [Automatic Dialogue Summary Generation for Customer Service](http://delivery.acm.org/10.1145/3340000/3330683/p1957-liu.pdf?ip=203.205.141.48&id=3330683&acc=OPENTOC&key=39FCDE838982416F%2E39FCDE838982416F%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&__acm__=1577256126_15004f9287606d30dfd9a97458f7af37)|-|-|
+
 ### 2019/09/26
 
 |Speakers|Papers|Slides|Others|
