@@ -9,7 +9,7 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|haoyusong|Transfer Learning in Personalized Dialogue Generation|[[slide]](./20191225_rickywchen.pdf)|-|
+|haoyusong|Transfer Learning in Personalized Dialogue Generation|[[slide]](./20200416_haoyusong.pdf)|-|
 |-|WWW Journal 2019 [Neural Personalized Response Generation as Domain Adaptation](https://arxiv.org/pdf/1701.02073.pdf)|-|-|
 |-|AAAI 2019 short [TransferTransfo-A Transfer Learning Approach for Neural Network Based Conversational Agents](https://arxiv.org/pdf/1901.08149.pdf)|-|-|
 |-|ACL 2019 short [Large-scale transfer learning for natural language generation](https://www.aclweb.org/anthology/P19-1608.pdf)|-|-|
