@@ -5,6 +5,16 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 ### Next Meeting
 
+### 2020/04/16
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|haoyusong|Transfer Learning in Personalized Dialogue Generation|[[slide]](./20191225_rickywchen.pdf)|-|
+|-|WWW Journal 2019 [Neural Personalized Response Generation as Domain Adaptation](https://arxiv.org/pdf/1701.02073.pdf)|-|-|
+|-|AAAI 2019 short [TransferTransfo-A Transfer Learning Approach for Neural Network Based Conversational Agents](https://arxiv.org/pdf/1901.08149.pdf)|-|-|
+|-|ACL 2019 short [Large-scale transfer learning for natural language generation](https://www.aclweb.org/anthology/P19-1608.pdf)|-|-|
+|-|AAAI 2020 [A Pre-training Based Personalized Dialogue Generation Model with Persona-sparse Data](https://arxiv.org/pdf/1911.04700.pdf)|-|-|
+
 ### 2019/12/25
 
 |Speakers|Papers|Slides|Others|
