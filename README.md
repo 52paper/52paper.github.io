@@ -5,6 +5,15 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 ### Next Meeting
 
+### 2020/04/23
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|kaiwang|-|[[slide]](./slides/20200423_xiaokaiwang.pdf)|-|
+|-|ICLR 2020 [ELECTRA: PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS](https://arxiv.org/pdf/2003.10555.pdf)|-|-|
+|-|ACL 2019 [Bridging the Gap between Training and Inference for Neural Machine Translation](https://arxiv.org/pdf/1906.02448.pdf)|-|-|
+|-|ACL 2020 [Multi-Domain Dialogue Acts and Response Co-Generation]()|-|-|
+
 ### 2020/04/16
 
 |Speakers|Papers|Slides|Others|
