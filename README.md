@@ -8,7 +8,7 @@
 ### 2020/04/29
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|huayangli|-|[[slide]](./slides/20200429_huayangli.pdf)|-|
+|huayangli|The Story about Probing|[[slide]](./slides/20200429_huayangli.pdf)|-|
 |-|Arxiv [Information-Theoretic Probing with Minimum Description Length](https://arxiv.org/abs/2003.12298)|-|-|
 |-|ACL 2020 [Information-Theoretic Probing for Linguistic Structure](https://arxiv.org/abs/2004.03061)|-|-|
 |-|EMNLP 2019 [Designing and Interpreting Probes with Control Tasks](https://arxiv.org/abs/1909.03368)|-|-|
