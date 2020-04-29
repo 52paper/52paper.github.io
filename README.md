@@ -5,6 +5,16 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 ### Next Meeting
 
+### 2020/04/29
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|huayangli|-|[[slide]](./slides/20200429_huayangli.pdf)|-|
+|-|Arxiv [Information-Theoretic Probing with Minimum Description Length](https://arxiv.org/abs/2003.12298)|-|-|
+|-|ACL 2020 [Information-Theoretic Probing for Linguistic Structure](https://arxiv.org/abs/2004.03061)|-|-|
+|-|EMNLP 2019 [Designing and Interpreting Probes with Control Tasks](https://arxiv.org/abs/1909.03368)|-|-|
+|-|NAACL 2019 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)|-|-|
+|-|NAACL 2018 [Deep contextualized word representations](https://arxiv.org/abs/1802.05365)|-|-|
+
 ### 2020/04/23
 
 |Speakers|Papers|Slides|Others|
