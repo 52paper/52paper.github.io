@@ -6,6 +6,17 @@
 
 ### Next Meeting
 
+### 2020/05/14
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|rickywchen|Recent Evaluation Metrics for Text Generation|[[slide]](./slides/20200514_rickywchen.pdf)|-|
+|-|EMNLP 2019 [MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance](https://arxiv.org/pdf/1909.02622.pdf)|-|-|
+|-|ACL 2019 [A Simple Theoretical Model of Importance for Summarization](https://www.aclweb.org/anthology/P19-1101.pdf)|-|-|
+|-|AAAI 2018 [RUBER: An Unsupervised Method for Automatic Evaluation of Open-Domain Dialog Systems](https://arxiv.org/pdf/1701.03079.pdf)|-|-|
+|-|NAACL-WS 2019 [Better Automatic Evaluation of Open-Domain Dialogue Systems with Contextualized Embeddings](https://arxiv.org/pdf/1904.10635.pdf)|-|-|
+
+
 ### 2020/04/29
 
 |Speakers|Papers|Slides|Others|
