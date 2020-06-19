@@ -6,6 +6,12 @@
 
 ### Next Meeting
 
+### 2020/06/18
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|cd||[[slide]]()|-|
+
 ### 2020/05/14
 
 |Speakers|Papers|Slides|Others|
