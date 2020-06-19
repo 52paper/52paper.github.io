@@ -16,7 +16,16 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|cd||[[slide]]()|-|
+|jcykcai|NLP with lage-scale Memory|[[slide]](./slides/20200618_jcykcai.pdf)|-|
+|-|[REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909)|-|-|
+|-|[Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2004.04906)|-|-|
+|-|[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)|-|-|
+|-|Further reading|-|-|
+|-|[ACL19 Latent Retrieval for Weakly Supervised Open Domain Question Answering]()|-|-|
+|-|[ACL19 Real-Time Open-Domain Question Answering with Dense-Sparse Phrase Index]()|-|-|
+|-|[EMNLP18 Phrase-Indexed Question Answering- A New Challenge for Scalable Document Comprehension]()|-|-|
+|-|[ICLR20 generalization_through_memorization_nearest_neighbor_language_models]()|-|-|
+|-|[NIPS19 Large Memory Layers with Product Keys]()|-|-|
 
 ### 2020/05/14
 
