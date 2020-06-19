@@ -6,6 +6,12 @@
 
 ### Next Meeting
 
+### 2020/07/02
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|zeyu qin||[[slide]]()|-|
+
 ### 2020/06/18
 
 |Speakers|Papers|Slides|Others|
