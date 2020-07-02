@@ -10,7 +10,9 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|zeyu qin||[[slide]]()|-|
+|zeyu qin|The short introduction to Imbalanced Classification|[[slide]](./slides/20200702_zeyuqin.pdf)|-|
+|-|[Class-Balanced Loss Based on Effective Number of Samples](https://arxiv.org/abs/1901.05555)|-|-|
+|-|[Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss](https://arxiv.org/abs/1906.07413)|-|-|
 
 ### 2020/06/18
 
