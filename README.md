@@ -10,7 +10,7 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|zeyu qin|The short introduction to Imbalanced Classification|[[slide]](./slides/20200702_zeyuqin.pdf)|-|
+|zeyuqin|The short introduction to Imbalanced Classification|[[slide]](./slides/20200702_zeyuqin.pdf)|-|
 |-|[Class-Balanced Loss Based on Effective Number of Samples](https://arxiv.org/abs/1901.05555)|-|-|
 |-|[Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss](https://arxiv.org/abs/1906.07413)|-|-|
 |-|[Coherent Gradients: An Approach to Understanding Generalization in Gradient Descent-based Optimization](https://arxiv.org/pdf/2002.10657)|-|-|
