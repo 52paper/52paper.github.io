@@ -6,6 +6,19 @@
 
 ### Next Meeting
 
+### 2020/07/09
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|rainyucao|Neural Architecture Search|[[slide]](./slides/20200709_rainyucao.pdf)|-|
+|-|[[JMLR2019] JNeural Architecture Search: A Survey](http://www.jmlr.org/papers/volume20/18-598/18-598.pdf)|-|-|
+|-|[[ICLR2019] DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055)|-|-|
+|-|[[ICML2019] The Evolved Transformer](https://arxiv.org/abs/1901.11117)|-|-|
+|-|[[ACL2019] Continual and Multi-Task Architecture Search](https://arxiv.org/pdf/1906.05226.pdf)|-|-|
+|-|[[EMNLP2019] Improved Differentiable Architecture Search for Language Modeling and Named Entity Recognition](https://www.aclweb.org/anthology/D19-1367/)|-|-|
+|-|[[ACL2020] Learning Architectures from an Extended Search Space for Language Modeling](https://arxiv.org/abs/2005.02593)|-|-|
+|-|[[ACL2020] Improving Transformer Models by Reordering their Sublayers](https://arxiv.org/abs/1911.03864)|-|-|
+
 ### 2020/07/02
 
 |Speakers|Papers|Slides|Others|
