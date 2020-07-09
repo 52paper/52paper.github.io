@@ -18,6 +18,7 @@
 |-|[[EMNLP2019] Improved Differentiable Architecture Search for Language Modeling and Named Entity Recognition](https://www.aclweb.org/anthology/D19-1367/)|-|-|
 |-|[[ACL2020] Learning Architectures from an Extended Search Space for Language Modeling](https://arxiv.org/abs/2005.02593)|-|-|
 |-|[[ACL2020] Improving Transformer Models by Reordering their Sublayers](https://arxiv.org/abs/1911.03864)|-|-|
+|-|[[ICML2018] Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268)|-|-|
 
 ### 2020/07/02
 
