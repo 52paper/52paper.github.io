@@ -6,6 +6,15 @@
 
 ### Next Meeting
 
+### 2020/07/17
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|charleshao|ACL2020 Excellent Papers|[[slide]](./slides/20200717_charleshao.pdf)|-|
+|-|[[ACL2020] Beyond Accuracy: Behavioral Testing of NLP models with CheckList](https://arxiv.org/pdf/2005.04118.pdf)|-|-|
+|-|[[ACL2020] Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks](https://www.aclweb.org/anthology/2020.acl-main.740.pdf)|-|-|
+|-|[[ACL2020] Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics](https://arxiv.org/pdf/2006.06264.pdf)|-|-|
+
 ### 2020/07/09
 
 |Speakers|Papers|Slides|Others|
