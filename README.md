@@ -6,6 +6,12 @@
 
 ### Next Meeting
 
+### 2020/07/23
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Guanlin Li|Text Generation: related topics||-|
+
 ### 2020/07/17
 
 |Speakers|Papers|Slides|Others|
