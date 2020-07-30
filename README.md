@@ -6,6 +6,20 @@
 
 ### Next Meeting
 
+### 2020/07/30
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|qintongli|Conversational Reasoning|[[slide]](./slides/20200730_qintongli.pdf)|-|
+|-|[[ACL2019] OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs](https://www.aclweb.org/anthology/P19-1081.pdf)|-|-|
+|-|[[ACL2020] KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation](https://arxiv.org/pdf/2004.04100.pdf)|-|-|
+|-|[[ACL2019] COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](https://arxiv.org/pdf/1906.05317.pdf)|-|-|
+|-|[[ACL2020] MuTual: A Dataset for Multi-Turn Dialogue Reasoning](https://arxiv.org/pdf/2004.04494.pdf)|-|-|
+|-|[[WWW2020] ASER: A Large-scale Eventuality Knowledge Graph](https://dl.acm.org/doi/pdf/10.1145/3366423.3380107)|-|-|
+|-|[[IJCAI2020] Guided Generation of Cause and Effect](https://www.ijcai.org/Proceedings/2020/0502.pdf)|-|-|
+
+
+
 ### 2020/07/23
 
 |Speakers|Papers|Slides|Others|
