@@ -6,6 +6,14 @@
 
 ### Next Meeting
 
+### 2020/08/13
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|jamgao|Pretrained Models for Text Generation|[[slide]](./slides/20200813_jamgao.pdf)|-|
+|-|[[ACL2020] Distilling Knowledge Learned in BERT for Text Generation](https://arxiv.org/pdf/1911.03829.pdf)|-|-|
+|-|[[ACL2020] BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461.pdf)|-|-|
+
 ### 2020/07/30
 
 |Speakers|Papers|Slides|Others|
