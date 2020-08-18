@@ -10,7 +10,7 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|robertang|Sentence-level Coherence Modeling|[[slide]](./slides/20200820_txr.pdf)|-|
+|robertang|Sentence-level Coherence Modeling|[[slide]](./slides/20200820_robertang.pdf)|-|
 |-|[[ACL2020] Toward Better Storylines with Sentence-Level Language Models](https://arxiv.org/abs/2005.05255)|-|-|
 |-|[[ACL2020] Pretraining with Contrastive Sentence Objectives Improves Discourse Performance of Language Models](http://arxiv.org/abs/2005.10389)|-|-|
 |-|[[ACL2020] Enabling Language Models to Fill in the Blanks](https://arxiv.org/abs/2005.05339)|-|-|
