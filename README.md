@@ -6,6 +6,15 @@
 
 ### Next Meeting
 
+### 2020/08/27
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|rickwwang|Sentence Infilling|[[slide]](./slides/XXX.pdf)|-|
+|-|[[arxiv2019] Text Infilling](http://arxiv.org/abs/1901.00158)|-|-|
+|-|[[IJCAI2019] T-CVAE: Transformer-Based Conditioned Variational Autoencoder for Story Completion ](https://www.ijcai.org/proceedings/2019/727)|-|-|
+|-|[[ACL2020] INSET: Sentence Infilling with Inter-Sentential Generative Pre-Training ](http://arxiv.org/abs/1911.03892)|-|-|
+
 ### 2020/08/20
 
 |Speakers|Papers|Slides|Others|
