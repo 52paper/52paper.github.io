@@ -10,7 +10,7 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|rainyucao|Graph Pooling|[[slide]]()|-|
+|rainyucao|Graph Pooling|[[slide]](./slides/20200903_rainyucao.pdf)|-|
 |-|[[NIPS2018] (DiffPool) Hierarchical Graph Representation Learning with Differentiable Pooling](https://arxiv.org/pdf/1806.08804.pdf)|-|-|
 |-|[[ICML2020] (MinCutPool) Spectral Clustering with Graph Neural Networks for Graph Pooling ](https://arxiv.org/pdf/1907.00481.pdf)|-|-|
 |-|[[ICML2019] (TopK Pool) Graph U-Nets ](https://arxiv.org/pdf/1905.05178.pdf)|-|-|
