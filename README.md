@@ -6,6 +6,12 @@
 
 ### Next Meeting
 
+### 2020/09/10
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|jcykcai|A (very) Brief Introduction to Conversational QA|[[slide]](./slides/20200910_jcykcai.pdf)|-|
+
 ### 2020/09/03
 
 |Speakers|Papers|Slides|Others|
