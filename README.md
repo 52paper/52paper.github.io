@@ -6,6 +6,16 @@
 
 ### Next Meeting
 
+### 2020/09/17
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|thudongwang|Adversarial Training for Pre-trained Models|[[slide]](./slides/20200917_thudongwang.pdf)|-|
+|-|[[ICLR2020] FreeLB: Enhanced Adversarial Training for Natural Language Understanding ](https://openreview.net/pdf?id=BygzbyHFvB)|-|-|
+|-|[[ACL2020] SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization](https://arxiv.org/pdf/1911.03437.pdf)|-|-|
+|-|[[arxiv2020] TextAT: Adversarial Training with Token-Aware Perturbation for Natural Language Understanding](https://arxiv.org/pdf/2004.14543.pdf)|-|-|
+|-|[[arxiv2020] Revisiting Pre-Trained Models for Chinese Natural Language Processing](https://arxiv.org/pdf/2004.13922.pdf)|-|-|
+
 ### 2020/09/10
 
 |Speakers|Papers|Slides|Others|
