@@ -16,6 +16,12 @@
 |-|[[arxiv2020] TextAT: Adversarial Training with Token-Aware Perturbation for Natural Language Understanding](https://arxiv.org/pdf/2004.14543.pdf)|-|-|
 |-|[[arxiv2020] Revisiting Pre-Trained Models for Chinese Natural Language Processing](https://arxiv.org/pdf/2004.13922.pdf)|-|-|
 
+### 2020/09/24
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|haoyusong|Pre-Trained Checkpoints for Warm-Starting of Generation Models|[[slide]](./slides/20200924_haoyusong.pdf)|-|
+
 ### 2020/09/10
 
 |Speakers|Papers|Slides|Others|
