@@ -6,6 +6,11 @@
 
 ### Next Meeting
 
+### 2020/10/15
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|zelongyang|Evaluation Metrics For Explainable AI (XAI)|[[slide]](./slides/20200924_zelongyang.pdf)|-|
 
 
 ### 2020/09/24
