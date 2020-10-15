@@ -10,7 +10,7 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|zelongyang|Evaluation Metrics For Explainable AI (XAI)|[[slide]](./slides/20200924_zelongyang.pdf)|-|
+|zelongyang|Evaluation Metrics For Explainable AI (XAI)|[[slide]](./slides/20201015_zelongyang.pdf)|-|
 
 
 ### 2020/09/24
