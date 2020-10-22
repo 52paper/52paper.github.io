@@ -6,6 +6,12 @@
 
 ### Next Meeting
 
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|gaojun|Evaluation @ EMNLP 2020 (Part 1)|[[slide]](./slides/20201022_gaojun.pdf)|-|
+
+
+
 ### 2020/10/15
 
 |Speakers|Papers|Slides|Others|
