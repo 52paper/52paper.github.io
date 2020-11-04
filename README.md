@@ -6,6 +6,18 @@
 
 ### Next Meeting
 
+### 2020/11/05
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|rickywchen|Evaluation @ EMNLP 2020 (Part 2)|[[slide]](./slides/20201105_rickywchen.pdf)|-|
+|-|[[EMNLP2020] Evaluating the Factual Consistency of Abstractive Text Summarization ](https://arxiv.org/abs/1910.12840)|-|-|
+|-|[[EMNLP2020] GRADE- Automatic Graph-Enhanced Coherence Metric for Evaluating Open-Domain Dialogue Systems ](https://arxiv.org/abs/2010.03994)|-|-|
+|-|[[EMNLP2020] UNION-An Unreferenced Metric for Evaluating Open-ended Story Generation ](https://arxiv.org/abs/2009.07602)|-|-|
+
+### 2020/10/22
+
+### 2020/10/22
+
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |gaojun|Evaluation @ EMNLP 2020 (Part 1)|[[slide]](./slides/20201022_gaojun.pdf)|-|
