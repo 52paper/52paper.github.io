@@ -10,7 +10,7 @@
 ### 2020/11/12
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|rickywchen|Evaluation @ EMNLP 2020 (Part 2)|[[slide]](./slides/20201112_jimblin.pdf)|-|
+|jimblin|Large-scale Retrieval & Language Model|[[slide]](./slides/20201112_jimblin.pdf)|-|
 |-|[[WWW2020] Context-Aware Document Term Weighting for Ad-Hoc Search ]|-|-|
 |-|[[ICLR2020] Pre-training Tasks for Embedding-based Large-scale Retrieval ]|-|-|
 |-|[[SIGIR2012] ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT ]|-|-|
