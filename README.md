@@ -11,9 +11,9 @@
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |jimblin|Large-scale Retrieval & Language Model|[[slide]](./slides/20201112_jimblin.pdf)|-|
-|-|[[WWW2020] Context-Aware Document Term Weighting for Ad-Hoc Search ]|-|-|
-|-|[[ICLR2020] Pre-training Tasks for Embedding-based Large-scale Retrieval ]|-|-|
-|-|[[SIGIR2012] ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT ]|-|-|
+|-|[WWW2020] Context-Aware Document Term Weighting for Ad-Hoc Search |-|-|
+|-|[ICLR2020] Pre-training Tasks for Embedding-based Large-scale Retrieval |-|-|
+|-|[SIGIR2012] ColBERT: Efficient and Eiffective Passage Search via Contextualized Late Interaction over BERT |-|-|
 
 ### 2020/11/05
 |Speakers|Papers|Slides|Others|
