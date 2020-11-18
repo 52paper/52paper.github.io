@@ -12,18 +12,18 @@
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |jimblin|Large-scale Retrieval & Language Model|[[slide]](./slides/20201112_jimblin.pdf)|-|
-|-|[WWW2020] Context-Aware Document Term Weighting for Ad-Hoc Search |-|-|
-|-|[ICLR2020] Pre-training Tasks for Embedding-based Large-scale Retrieval |-|-|
-|-|[SIGIR2020] ColBERT: Efficient and Eiffective Passage Search via Contextualized Late Interaction over BERT |-|-|
+|-|WWW2020 [Context-Aware Document Term Weighting for Ad-Hoc Search](https://dl.acm.org/doi/pdf/10.1145/3366423.3380258) |-|-|
+|-|ICLR2020 [Pre-training Tasks for Embedding-based Large-scale Retrieval](https://arxiv.org/pdf/2002.03932.pdf) |-|-|
+|-|SIGIR2020 [ColBERT: Efficient and Eiffective Passage Search via Contextualized Late Interaction over BERT](https://dl.acm.org/doi/pdf/10.1145/3397271.3401075) |-|-|
 
 ### 2020/11/05
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |rickywchen|Evaluation @ EMNLP 2020 (Part 2)|[[slide]](./slides/20201105_rickywchen.pdf)|-|
-|-|[[EMNLP2020] Evaluating the Factual Consistency of Abstractive Text Summarization ](https://arxiv.org/abs/1910.12840)|-|-|
-|-|[[EMNLP2020] GRADE- Automatic Graph-Enhanced Coherence Metric for Evaluating Open-Domain Dialogue Systems ](https://arxiv.org/abs/2010.03994)|-|-|
-|-|[[EMNLP2020] UNION-An Unreferenced Metric for Evaluating Open-ended Story Generation ](https://arxiv.org/abs/2009.07602)|-|-|
+|-|EMNLP2020 [Evaluating the Factual Consistency of Abstractive Text Summarization](https://arxiv.org/abs/1910.12840)|-|-|
+|-|EMNLP2020 [GRADE- Automatic Graph-Enhanced Coherence Metric for Evaluating Open-Domain Dialogue Systems](https://arxiv.org/abs/2010.03994)|-|-|
+|-|EMNLP2020 [UNION-An Unreferenced Metric for Evaluating Open-ended Story Generation](https://arxiv.org/abs/2009.07602)|-|-|
 
 ### 2020/10/22
 
@@ -54,10 +54,10 @@
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |thudongwang|Adversarial Training for Pre-trained Models|[[slide]](./slides/20200917_thudongwang.pdf)|-|
-|-|[[ICLR2020] FreeLB: Enhanced Adversarial Training for Natural Language Understanding ](https://openreview.net/pdf?id=BygzbyHFvB)|-|-|
-|-|[[ACL2020] SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization](https://arxiv.org/pdf/1911.03437.pdf)|-|-|
-|-|[[arxiv2020] TextAT: Adversarial Training with Token-Aware Perturbation for Natural Language Understanding](https://arxiv.org/pdf/2004.14543.pdf)|-|-|
-|-|[[arxiv2020] Revisiting Pre-Trained Models for Chinese Natural Language Processing](https://arxiv.org/pdf/2004.13922.pdf)|-|-|
+|-|ICLR2020 [FreeLB: Enhanced Adversarial Training for Natural Language Understanding](https://openreview.net/pdf?id=BygzbyHFvB)|-|-|
+|-|ACL2020 [SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization](https://arxiv.org/pdf/1911.03437.pdf)|-|-|
+|-|arXiv2020 [TextAT: Adversarial Training with Token-Aware Perturbation for Natural Language Understanding](https://arxiv.org/pdf/2004.14543.pdf)|-|-|
+|-|arXiv2020 [Revisiting Pre-Trained Models for Chinese Natural Language Processing](https://arxiv.org/pdf/2004.13922.pdf)|-|-|
 
 
 ### 2020/09/10
@@ -71,48 +71,48 @@
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |rainyucao|Graph Pooling|[[slide]](./slides/20200903_rainyucao.pdf)|-|
-|-|[[NIPS2018] (DiffPool) Hierarchical Graph Representation Learning with Differentiable Pooling](https://arxiv.org/pdf/1806.08804.pdf)|-|-|
-|-|[[ICML2020] (MinCutPool) Spectral Clustering with Graph Neural Networks for Graph Pooling ](https://arxiv.org/pdf/1907.00481.pdf)|-|-|
-|-|[[ICML2019] (TopK Pool) Graph U-Nets ](https://arxiv.org/pdf/1905.05178.pdf)|-|-|
-|-|[[ICML2019] (SAGPool) Self-Attention Graph Pooling ](https://arxiv.org/pdf/1904.08082.pdf)|-|-|
+|-|NIPS2018 [(DiffPool) Hierarchical Graph Representation Learning with Differentiable Pooling](https://arxiv.org/pdf/1806.08804.pdf)|-|-|
+|-|ICML2020 [(MinCutPool) Spectral Clustering with Graph Neural Networks for Graph Pooling ](https://arxiv.org/pdf/1907.00481.pdf)|-|-|
+|-|ICML2019 [(TopK Pool) Graph U-Nets ](https://arxiv.org/pdf/1905.05178.pdf)|-|-|
+|-|ICML2019 [(SAGPool) Self-Attention Graph Pooling ](https://arxiv.org/pdf/1904.08082.pdf)|-|-|
 
 ### 2020/08/27
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |rickwwang|Sentence Infilling|[[slide]](./slides/20200827-weiwang-infilling.pdf)|-|
-|-|[[arxiv2019] Text Infilling](http://arxiv.org/abs/1901.00158)|-|-|
-|-|[[IJCAI2019] T-CVAE: Transformer-Based Conditioned Variational Autoencoder for Story Completion ](https://www.ijcai.org/proceedings/2019/727)|-|-|
-|-|[[ACL2020] INSET: Sentence Infilling with Inter-Sentential Generative Pre-Training ](http://arxiv.org/abs/1911.03892)|-|-|
+|-|arxiv2019 [Text Infilling](http://arxiv.org/abs/1901.00158)|-|-|
+|-|IJCAI2019 [T-CVAE: Transformer-Based Conditioned Variational Autoencoder for Story Completion ](https://www.ijcai.org/proceedings/2019/727)|-|-|
+|-|ACL2020 [INSET: Sentence Infilling with Inter-Sentential Generative Pre-Training ](http://arxiv.org/abs/1911.03892)|-|-|
 
 ### 2020/08/20
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |robertang|Sentence-level Coherence Modeling|[[slide]](./slides/20200820_robertang.pdf)|-|
-|-|[[ACL2020] Toward Better Storylines with Sentence-Level Language Models](https://arxiv.org/abs/2005.05255)|-|-|
-|-|[[ACL2020] Pretraining with Contrastive Sentence Objectives Improves Discourse Performance of Language Models](http://arxiv.org/abs/2005.10389)|-|-|
-|-|[[ACL2020] Enabling Language Models to Fill in the Blanks](https://arxiv.org/abs/2005.05339)|-|-|
+|-|ACL2020 [Toward Better Storylines with Sentence-Level Language Models](https://arxiv.org/abs/2005.05255)|-|-|
+|-|ACL2020 [Pretraining with Contrastive Sentence Objectives Improves Discourse Performance of Language Models](http://arxiv.org/abs/2005.10389)|-|-|
+|-|ACL2020 [Enabling Language Models to Fill in the Blanks](https://arxiv.org/abs/2005.05339)|-|-|
 
 ### 2020/08/13
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |jamgao|Pretrained Models for Text Generation|[[slide]](./slides/20200813_jamgao.pdf)|-|
-|-|[[ACL2020] Distilling Knowledge Learned in BERT for Text Generation](https://arxiv.org/pdf/1911.03829.pdf)|-|-|
-|-|[[ACL2020] BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461.pdf)|-|-|
+|-|ACL2020 [Distilling Knowledge Learned in BERT for Text Generation](https://arxiv.org/pdf/1911.03829.pdf)|-|-|
+|-|ACL2020 [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461.pdf)|-|-|
 
 ### 2020/07/30
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |qintongli|Conversational Reasoning|[[slide]](./slides/20200730_qintongli.pdf)|-|
-|-|[[ACL2019] OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs](https://www.aclweb.org/anthology/P19-1081.pdf)|-|-|
-|-|[[ACL2020] KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation](https://arxiv.org/pdf/2004.04100.pdf)|-|-|
-|-|[[ACL2019] COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](https://arxiv.org/pdf/1906.05317.pdf)|-|-|
-|-|[[ACL2020] MuTual: A Dataset for Multi-Turn Dialogue Reasoning](https://arxiv.org/pdf/2004.04494.pdf)|-|-|
-|-|[[WWW2020] ASER: A Large-scale Eventuality Knowledge Graph](https://dl.acm.org/doi/pdf/10.1145/3366423.3380107)|-|-|
-|-|[[IJCAI2020] Guided Generation of Cause and Effect](https://www.ijcai.org/Proceedings/2020/0502.pdf)|-|-|
+|-|ACL2019 [OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs](https://www.aclweb.org/anthology/P19-1081.pdf)|-|-|
+|-|ACL2020 [KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation](https://arxiv.org/pdf/2004.04100.pdf)|-|-|
+|-|ACL2019 [COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](https://arxiv.org/pdf/1906.05317.pdf)|-|-|
+|-|ACL2020 [MuTual: A Dataset for Multi-Turn Dialogue Reasoning](https://arxiv.org/pdf/2004.04494.pdf)|-|-|
+|-|WWW2020 [ASER: A Large-scale Eventuality Knowledge Graph](https://dl.acm.org/doi/pdf/10.1145/3366423.3380107)|-|-|
+|-|IJCAI2020 [Guided Generation of Cause and Effect](https://www.ijcai.org/Proceedings/2020/0502.pdf)|-|-|
 
 
 
@@ -127,23 +127,23 @@
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |charleshao|ACL2020 Excellent Papers|[[slide]](./slides/20200717_charleshao.pdf)|-|
-|-|[[ACL2020] Beyond Accuracy: Behavioral Testing of NLP models with CheckList](https://arxiv.org/pdf/2005.04118.pdf)|-|-|
-|-|[[ACL2020] Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks](https://www.aclweb.org/anthology/2020.acl-main.740.pdf)|-|-|
-|-|[[ACL2020] Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics](https://arxiv.org/pdf/2006.06264.pdf)|-|-|
+|-|ACL2020 [Beyond Accuracy: Behavioral Testing of NLP models with CheckList](https://arxiv.org/pdf/2005.04118.pdf)|-|-|
+|-|ACL2020 [Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks](https://www.aclweb.org/anthology/2020.acl-main.740.pdf)|-|-|
+|-|ACL2020 [Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics](https://arxiv.org/pdf/2006.06264.pdf)|-|-|
 
 ### 2020/07/09
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |rainyucao|Neural Architecture Search|[[slide]](./slides/20200709_rainyucao.pdf)|-|
-|-|[[JMLR2019] JNeural Architecture Search: A Survey](http://www.jmlr.org/papers/volume20/18-598/18-598.pdf)|-|-|
-|-|[[ICLR2019] DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055)|-|-|
-|-|[[ICML2019] The Evolved Transformer](https://arxiv.org/abs/1901.11117)|-|-|
-|-|[[ACL2019] Continual and Multi-Task Architecture Search](https://arxiv.org/pdf/1906.05226.pdf)|-|-|
-|-|[[EMNLP2019] Improved Differentiable Architecture Search for Language Modeling and Named Entity Recognition](https://www.aclweb.org/anthology/D19-1367/)|-|-|
-|-|[[ACL2020] Learning Architectures from an Extended Search Space for Language Modeling](https://arxiv.org/abs/2005.02593)|-|-|
-|-|[[ACL2020] Improving Transformer Models by Reordering their Sublayers](https://arxiv.org/abs/1911.03864)|-|-|
-|-|[[ICML2018] Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268)|-|-|
+|-|JMLR2019 [Neural Architecture Search: A Survey](http://www.jmlr.org/papers/volume20/18-598/18-598.pdf)|-|-|
+|-|ICLR2019 [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055)|-|-|
+|-|ICML2019 [The Evolved Transformer](https://arxiv.org/abs/1901.11117)|-|-|
+|-|ACL2019 [Continual and Multi-Task Architecture Search](https://arxiv.org/pdf/1906.05226.pdf)|-|-|
+|-|EMNLP2019 [Improved Differentiable Architecture Search for Language Modeling and Named Entity Recognition](https://www.aclweb.org/anthology/D19-1367/)|-|-|
+|-|ACL2020 [Learning Architectures from an Extended Search Space for Language Modeling](https://arxiv.org/abs/2005.02593)|-|-|
+|-|ACL2020 [Improving Transformer Models by Reordering their Sublayers](https://arxiv.org/abs/1911.03864)|-|-|
+|-|ICML2018 [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268)|-|-|
 
 ### 2020/07/02
 
@@ -164,21 +164,21 @@
 |-|[Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2004.04906)|-|-|
 |-|[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)|-|-|
 |-|Further reading|-|-|
-|-|[ACL19 Latent Retrieval for Weakly Supervised Open Domain Question Answering]()|-|-|
-|-|[ACL19 Real-Time Open-Domain Question Answering with Dense-Sparse Phrase Index]()|-|-|
-|-|[EMNLP18 Phrase-Indexed Question Answering- A New Challenge for Scalable Document Comprehension]()|-|-|
-|-|[ICLR20 generalization_through_memorization_nearest_neighbor_language_models]()|-|-|
-|-|[NIPS19 Large Memory Layers with Product Keys]()|-|-|
+|-|ACL2019 [Latent Retrieval for Weakly Supervised Open Domain Question Answering]()|-|-|
+|-|ACL2019 [Real-Time Open-Domain Question Answering with Dense-Sparse Phrase Index]()|-|-|
+|-|EMNLP2018 [Phrase-Indexed Question Answering- A New Challenge for Scalable Document Comprehension]()|-|-|
+|-|ICLR2020 [generalization_through_memorization_nearest_neighbor_language_models]()|-|-|
+|-|NIPS2019 [Large Memory Layers with Product Keys]()|-|-|
 
 ### 2020/05/14
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |rickywchen|Recent Evaluation Metrics for Text Generation|[[slide]](./slides/20200514_rickywchen.pdf)|-|
-|-|EMNLP 2019 [MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance](https://arxiv.org/pdf/1909.02622.pdf)|-|-|
-|-|ACL 2019 [A Simple Theoretical Model of Importance for Summarization](https://www.aclweb.org/anthology/P19-1101.pdf)|-|-|
-|-|AAAI 2018 [RUBER: An Unsupervised Method for Automatic Evaluation of Open-Domain Dialog Systems](https://arxiv.org/pdf/1701.03079.pdf)|-|-|
-|-|NAACL-WS 2019 [Better Automatic Evaluation of Open-Domain Dialogue Systems with Contextualized Embeddings](https://arxiv.org/pdf/1904.10635.pdf)|-|-|
+|-|EMNLP2019 [MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance](https://arxiv.org/pdf/1909.02622.pdf)|-|-|
+|-|ACL2019 [A Simple Theoretical Model of Importance for Summarization](https://www.aclweb.org/anthology/P19-1101.pdf)|-|-|
+|-|AAAI2018 [RUBER: An Unsupervised Method for Automatic Evaluation of Open-Domain Dialog Systems](https://arxiv.org/pdf/1701.03079.pdf)|-|-|
+|-|NAACL2019 [Better Automatic Evaluation of Open-Domain Dialogue Systems with Contextualized Embeddings](https://arxiv.org/pdf/1904.10635.pdf)|-|-|
 
 
 ### 2020/04/29
@@ -186,30 +186,30 @@
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |huayangli|The Story about Probing|[[slide]](./slides/20200429_huayangli.pdf)|-|
-|-|Arxiv [Information-Theoretic Probing with Minimum Description Length](https://arxiv.org/abs/2003.12298)|-|-|
-|-|ACL 2020 [Information-Theoretic Probing for Linguistic Structure](https://arxiv.org/abs/2004.03061)|-|-|
-|-|EMNLP 2019 [Designing and Interpreting Probes with Control Tasks](https://arxiv.org/abs/1909.03368)|-|-|
-|-|NAACL 2019 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)|-|-|
-|-|NAACL 2018 [Deep contextualized word representations](https://arxiv.org/abs/1802.05365)|-|-|
+|-|Arxiv2020 [Information-Theoretic Probing with Minimum Description Length](https://arxiv.org/abs/2003.12298)|-|-|
+|-|ACL2020 [Information-Theoretic Probing for Linguistic Structure](https://arxiv.org/abs/2004.03061)|-|-|
+|-|EMNLP2019 [Designing and Interpreting Probes with Control Tasks](https://arxiv.org/abs/1909.03368)|-|-|
+|-|NAACL2019 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)|-|-|
+|-|NAACL2018 [Deep contextualized word representations](https://arxiv.org/abs/1802.05365)|-|-|
 
 ### 2020/04/23
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |kaiwang|-|[[slide]](./slides/20200423_xiaokaiwang.pdf)|-|
-|-|ICLR 2020 [ELECTRA: PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS](https://arxiv.org/pdf/2003.10555.pdf)|-|-|
-|-|ACL 2019 [Bridging the Gap between Training and Inference for Neural Machine Translation](https://arxiv.org/pdf/1906.02448.pdf)|-|-|
-|-|ACL 2020 [Multi-Domain Dialogue Acts and Response Co-Generation]()|-|-|
+|-|ICLR2020 [ELECTRA: PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS](https://arxiv.org/pdf/2003.10555.pdf)|-|-|
+|-|ACL2019 [Bridging the Gap between Training and Inference for Neural Machine Translation](https://arxiv.org/pdf/1906.02448.pdf)|-|-|
+|-|ACL2020 [Multi-Domain Dialogue Acts and Response Co-Generation]()|-|-|
 
 ### 2020/04/16
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |haoyusong|Transfer Learning in Personalized Dialogue Generation|[[slide]](./slides/20200416_haoyusong.pdf)|-|
-|-|WWW Journal 2019 [Neural Personalized Response Generation as Domain Adaptation](https://arxiv.org/pdf/1701.02073.pdf)|-|-|
-|-|AAAI 2019 short [TransferTransfo-A Transfer Learning Approach for Neural Network Based Conversational Agents](https://arxiv.org/pdf/1901.08149.pdf)|-|-|
-|-|ACL 2019 short [Large-scale transfer learning for natural language generation](https://www.aclweb.org/anthology/P19-1608.pdf)|-|-|
-|-|AAAI 2020 [A Pre-training Based Personalized Dialogue Generation Model with Persona-sparse Data](https://arxiv.org/pdf/1911.04700.pdf)|-|-|
+|-|WWW Journal2019 [Neural Personalized Response Generation as Domain Adaptation](https://arxiv.org/pdf/1701.02073.pdf)|-|-|
+|-|AAAI2019 short [TransferTransfo-A Transfer Learning Approach for Neural Network Based Conversational Agents](https://arxiv.org/pdf/1901.08149.pdf)|-|-|
+|-|ACL2019 short [Large-scale transfer learning for natural language generation](https://www.aclweb.org/anthology/P19-1608.pdf)|-|-|
+|-|AAAI2020 [A Pre-training Based Personalized Dialogue Generation Model with Persona-sparse Data](https://arxiv.org/pdf/1911.04700.pdf)|-|-|
 
 ### 2019/12/25
 
@@ -280,7 +280,7 @@
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |jiangtongli|Some research progress on sequence generation|[[slide]](./slides/20190718_jiangtongli.pdf)|-|
-|-|Arxiv 2015 [How (not) to Train your Generative Model: Scheduled Sampling, Likelihood, Adversary?](https://arxiv.org/abs/1511.05101)|-|-|
+|-|arXiv2015 [How (not) to Train your Generative Model: Scheduled Sampling, Likelihood, Adversary?](https://arxiv.org/abs/1511.05101)|-|-|
 |-|ICML2019 [CoT: Cooperative Training for Generative Modeling of Discrete Data](https://arxiv.org/pdf/1804.03782.pdf)|-|-|
 |-|ICLR2019 [Improving Sequence-to-Sequence Learning via Optimal Transport](https://arxiv.org/abs/1901.06283)|-|-|
 
@@ -309,9 +309,9 @@
 |jcykcai|Rethinking the generation orders of sequence|[[slide]](./slides/20190628_jcykcai.pdf)|-|
 ||ICML2019 [Insertion Transformer: Flexible Sequence Generation via Insertion Operations](https://arxiv.org/pdf/1902.03249.pdf)|-|-|
 |-|ICML2019 [Non-Monotonic Sequential Text Generation](https://arxiv.org/pdf/1902.02192.pdf)|-|-|
-|-|arxiv19 [Insertion-based Decoding with automatically Inferred Generation Order](https://arxiv.org/pdf/1902.01370.pdf)|-|-|
-|-|EMNLP18 [The Importance of Generation Order in Language Modeling](https://aclweb.org/anthology/D18-1324)|-|-|
-|-|arxiv19 [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf)|-|-|
+|-|arXiv2019 [Insertion-based Decoding with automatically Inferred Generation Order](https://arxiv.org/pdf/1902.01370.pdf)|-|-|
+|-|EMNLP2018 [The Importance of Generation Order in Language Modeling](https://aclweb.org/anthology/D18-1324)|-|-|
+|-|arXiv2019 [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf)|-|-|
 
 ### 2019/06/17
 
@@ -326,7 +326,7 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|jiachendu|ICLR 2019 [LEARNING TO REPRESENT EDITS](https://arxiv.org/pdf/1810.13337.pdf)|[[slide]](./slides/20190530-jiachendu-edit.pdf)|-|
+|jiachendu|ICLR2019 [LEARNING TO REPRESENT EDITS](https://arxiv.org/pdf/1810.13337.pdf)|[[slide]](./slides/20190530-jiachendu-edit.pdf)|-|
 |-|[Text Infilling](https://arxiv.org/pdf/1901.00158.pdf)|-|-|
 |-|[TIGS: An Inference Algorithm for Text Infilling with Gradient Search](https://arxiv.org/pdf/1905.10752v1.pdf)|-|-|
 
@@ -355,9 +355,9 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|jcykcai|AAAI17 [Mechanism-Aware Neural Machine for Dialogue Response Generation](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14471/14267)|[[slide]](./slides/20190404_jcykcai.pdf)|-|
-|-|ACL18 [Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation](https://www.aclweb.org/anthology/P18-1101)|-|-|
-|-|EMNLP18 [Learning Neural Templates for Text Generation](https://aclweb.org/anthology/D18-1356)|-|-|
+|jcykcai|AAAI2017 [Mechanism-Aware Neural Machine for Dialogue Response Generation](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14471/14267)|[[slide]](./slides/20190404_jcykcai.pdf)|-|
+|-|ACL2018 [Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation](https://www.aclweb.org/anthology/P18-1101)|-|-|
+|-|EMNLP2018 [Learning Neural Templates for Text Generation](https://aclweb.org/anthology/D18-1356)|-|-|
 
 
 ### 2019/03/28
@@ -409,7 +409,7 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|gaoyifan|AAAI19 [A Multi-Agent Communication Framework for Question-Worthy Phrase Extraction and Question Generation](http://www.sdspeople.fudan.edu.cn/zywei/paper/2019/wang-aaai-2019.pdf)|[[slide]](./slides/20181213_evanyfgao.pdf)|-|
+|gaoyifan|AAAI2019 [A Multi-Agent Communication Framework for Question-Worthy Phrase Extraction and Question Generation](http://www.sdspeople.fudan.edu.cn/zywei/paper/2019/wang-aaai-2019.pdf)|[[slide]](./slides/20181213_evanyfgao.pdf)|-|
 
 ### 2018/11/29
 
@@ -477,7 +477,7 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|zhaoyang|ACL18 Report|[slide](https://github.com/52paper/52paper.github.io/blob/master/20180727_zhaoyang.pdf)|-|
+|zhaoyang|ACL2018 Report|[slide](https://github.com/52paper/52paper.github.io/blob/master/20180727_zhaoyang.pdf)|-|
 
 
 ### 2018/7/18
