@@ -8,6 +8,7 @@
 
 
 ### 2020/11/12
+
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |jimblin|Large-scale Retrieval & Language Model|[[slide]](./slides/20201112_jimblin.pdf)|-|
@@ -16,6 +17,7 @@
 |-|[SIGIR2020] ColBERT: Efficient and Eiffective Passage Search via Contextualized Late Interaction over BERT |-|-|
 
 ### 2020/11/05
+
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |rickywchen|Evaluation @ EMNLP 2020 (Part 2)|[[slide]](./slides/20201105_rickywchen.pdf)|-|
