@@ -6,6 +6,15 @@
 
 ### Next Meeting
 
+### 2020/11/26
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|rickwwang|Best paper of EMNLP 2020|[[slide]](./slides/20201126-rickwwang.pdf)|-|
+|-|EMNLP2020 [Digital Voicing of Silent Speech](https://www.aclweb.org/anthology/2020.emnlp-main.445) |-|-|
+|-|EMNLP2020 [Spot The Bot: A Robust and Efficient Framework for the Evaluation
+of Conversational Dialogue Systems](https://www.aclweb.org/anthology/2020.emnlp-main.326) |-|-|
+|-|EMNLP2020 [GLUCOSE: GeneraLized and COntextualized Story Explanations](https://www.aclweb.org/anthology/2020.emnlp-main.370) |-|-|
 
 ### 2020/11/12
 
