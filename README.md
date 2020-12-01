@@ -6,6 +6,17 @@
 
 ### Next Meeting
 
+### 2020/12/03
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|rainyucao|Dialogue Data Augmentation|[[slide]](./slides/20201203_rainyucao.pdf)|-|
+|-|EMNLP2020 [Dialogue Distillation: Open-domain Dialogue Augmentation Using Unpaired Data](https://www.aclweb.org/anthology/2020.emnlp-main.277) |-|-|
+|-|EMNLP2020 [Filtering Noisy Dialogue Corpora by Connectivity and Content Relatedness](https://www.aclweb.org/anthology/2020.emnlp-main.68) |-|-|
+|-|EMNLP2020 [Sequence-Level Mixed Sample Data Augmentation](https://www.aclweb.org/anthology/2020.emnlp-main.447) |-|-|
+|-|EMNLP2020 [SeqMix: Augmenting Active Sequence Labeling via Sequence Mixup](https://www.aclweb.org/anthology/2020.emnlp-main.691) |-|-|
+
+
 ### 2020/11/26
 
 |Speakers|Papers|Slides|Others|
