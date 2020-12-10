@@ -6,6 +6,16 @@
 
 ### Next Meeting
 
+### 2020/12/10
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|zhiyongwu | |[[slide]](./slides/2020.12.10%20zhiyong%20wu.pdf)|-|
+|-|ACL2020 [Perturbed Masking: Parameter-free Probing for Analyzing and Interpreting BERT](https://www.aclweb.org/anthology/2020.acl-main.383.pdf) |-|-|
+|-|EMNLP2020 [Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision](https://www.aclweb.org/anthology/2020.emnlp-main.162.pdf) |-|-|
+
+
+
 ### 2020/12/03
 
 |Speakers|Papers|Slides|Others|
