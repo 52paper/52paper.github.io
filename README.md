@@ -6,6 +6,15 @@
 
 ### Next Meeting
 
+### 2020/11/26
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|rickwwang|Sentence Embedding|[[slide]](./slides/20210315-weiwang-sentence-embedding.pdf)|-|
+|-|EMNLP2019 [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](http://arxiv.org/abs/1908.10084) |-|-|
+|-|Arxiv2020 [DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations](http://arxiv.org/abs/2006.03659) |-|-|
+|-|EMNLP2020 [An Unsupervised Sentence Embedding Method by Mutual Information Maximization](http://arxiv.org/abs/2009.12061) |-|-|
+
 ### 2020/12/10
 
 |Speakers|Papers|Slides|Others|
