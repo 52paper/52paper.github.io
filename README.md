@@ -6,6 +6,14 @@
 
 ### Next Meeting
 
+### 2021/04/18
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|gaojun|Text Evaluation|[[slide]](./slides/20210418_gaojun.pdf)|-|
+|-|EMNLP2020 [A Study in Improving BLEU Reference Coverage with Diverse Automatic Paraphrasing](https://www.aclweb.org/anthology/2020.findings-emnlp.82/) |-|-|
+|-|TACL2020 [Improving Dialog Evaluation with a Multi-reference Adversarial Dataset and Large Scale Pretraining](https://arxiv.org/abs/2009.11321) |-|-|
+
 ### 2021/03/18
 
 |Speakers|Papers|Slides|Others|
