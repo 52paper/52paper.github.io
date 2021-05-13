@@ -10,7 +10,7 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|xuchen|Persona Dialogue Generation & Knowledge-enhanced Generation|[[slide]](./slides/20210513_chencxu.pdf)|-|
+|xuchen|Persona Dialogue Generation & Knowledge-enhanced Generation|[[slide]](./slides/20210513_xuchen.pdf)|-|
 |-|ACL2020 [You Impress Me: Dialogue Generation via Mutual Persona Perception](https://arxiv.org/abs/2004.05388) |-|-|
 |-|EMNLP2020 [Language Generation with Multi-Hop Reasoning on Commonsense Knowledge Graph](https://arxiv.org/abs/2009.11692) |-|-|
 
