@@ -10,7 +10,7 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|weiwang|MLM and Dialogue|[[slide]](./slides/20210610-weiwang-dialogue.pdf)|-|
+|weiwang|MLM and Dialogue|[[slide]](./slides/20210610-weiwang.pdf)|-|
 |-|Arxiv 2021 [Masked Language Modeling and the Distributional Hypothesis: Order Word Matters Pre-training for Little](https://arxiv.org/abs/2104.06644) |-|-|
 |-|Arxiv 2021 [Neural Path Hunter: Reducing Hallucination in Dialogue Systems via Path Grounding](https://arxiv.org/abs/2104.08455) |-|-|
 
