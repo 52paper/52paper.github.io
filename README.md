@@ -10,7 +10,7 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|Haoran Yang|Pretrained LM and Continual Learning|[[slide]](./slides/20210624_haoran.pdf)|-|
+|HaoranYang|Pretrained LM and Continual Learning|[[slide]](./slides/20210624_haoran.pdf)|-|
 |-|Arxiv 2021 [Self-supervised Regularization for Text Classification](https://arxiv.org/abs/2103.05231) |-|-|
 |-|Arxiv 2021 [Continual Learning for Text Classification with Information Disentanglement Based Regularization](https://arxiv.org/abs/2104.05489) |-|-|
 
