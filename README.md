@@ -6,6 +6,18 @@
 
 ### Next Meeting
 
+### 2021/07/01
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|johntianlan| Pretrained LM for Dialog Response Selection|[[slide]](./slides/20210701_johntianlan.pdf)|-|
+|-|INTERSPEECH 2020 [An Effective Domain Adaptive Post-Training Method for BERT in Response Selection](https://arxiv.org/pdf/1908.04812.pdf) |-|-|
+|-|CIKM 2020 [Speaker-Aware BERT for Multi-Turn Response Selection in Retrieval-Based Chatbots](https://arxiv.org/pdf/2004.03588.pdf) |-|-|
+|-|AAAI 2021 [Do Response Selection Models Really Know What’s Next? Utterance Manipulation Strategies for Multi-turn Response Selection](https://arxiv.org/abs/2009.04703) |-|-|
+|-|AAAI 2021 [Learning an Effective Context-Response Matching Model with Self-Supervised Tasks for Retrieval-based Dialogues](https://www.aaai.org/AAAI21Papers/AAAI-5417.XuR.pdf) |-|-|
+|-|ACL 2021 [Dialogue Response Selection with Hierarchical Curriculum Learning](https://arxiv.org/abs/2012.14756) |-|-|
+|-|NAACL 2021 [Fine-grained Post-training for Improving Retrieval-based Dialogue Systems](https://www.aclweb.org/anthology/2021.naacl-main.122/) |-|-|
+
 ### 2021/06/24
 
 |Speakers|Papers|Slides|Others|
