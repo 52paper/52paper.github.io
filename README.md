@@ -9,7 +9,7 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|LingyunFeng|Local Sequence Transduction|[[slide]](./slides/20210708_lingyun.pdf)|-|
+|LingyunFeng|Sequence Tagging Approaches for Local Sequence Transduction|[[slide]](./slides/20210708_lingyun.pdf)|-|
 |-|EMNLP 2019 [Encode, Tag, Realize: High-Precision Text Editing](https://arxiv.org/abs/1909.01187) |-|-|
 |-|BEA workshop [GECToR – Grammatical Error Correction: Tag, Not Rewrite](https://arxiv.org/abs/2005.12592) |-|-|
 |-|EMNLP 2020 [Seq2Edits: Sequence Transduction Using Span-level Edit Operations](https://arxiv.org/abs/2009.11136) |-|-|
