@@ -5,6 +5,14 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 ### Next Meeting
+### 2021/07/08
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Lingyun Feng|Local Sequence Transduction|[[slide]](./slides/20210708_lingyun.pdf)|-|
+|-|EMNLP 2019 [Encode, Tag, Realize: High-Precision Text Editing](https://arxiv.org/abs/1909.01187) |-|-|
+|-|BEA workshop [GECToR – Grammatical Error Correction: Tag, Not Rewrite](https://arxiv.org/abs/2005.12592) |-|-|
+|-|EMNLP 2020 [Seq2Edits: Sequence Transduction Using Span-level Edit Operations](https://arxiv.org/abs/2009.11136) |-|-|
 
 ### 2021/07/01
 
