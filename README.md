@@ -5,6 +5,15 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 ### Next Meeting
+### 2021/07/29
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Junjie Wu|Textual Adversarial Attack|[[slide]](./slides/20210729_junjiewu.pdf)|-|
+|-|EMNLP 2020 [BERT-ATTACK: Adversarial Attack Against BERT Using BERT](https://arxiv.org/pdf/2004.09984.pdf) |-|-|
+|-|Arxiv 2021 [Gradient-based Adversarial Attacks against Text Transformers](https://arxiv.org/pdf/2104.13733.pdf) |-|-|
+|-|AAAI 2020 [Seq2Sick: Evaluating the Robustness of Sequence-to-Sequence Models with Adversarial Examples](https://arxiv.org/pdf/1803.01128.pdf) |-|-|
+
 ### 2021/07/08
 
 |Speakers|Papers|Slides|Others|
@@ -115,8 +124,6 @@
 |-|EMNLP2020 [Evaluating the Factual Consistency of Abstractive Text Summarization](https://arxiv.org/abs/1910.12840)|-|-|
 |-|EMNLP2020 [GRADE- Automatic Graph-Enhanced Coherence Metric for Evaluating Open-Domain Dialogue Systems](https://arxiv.org/abs/2010.03994)|-|-|
 |-|EMNLP2020 [UNION-An Unreferenced Metric for Evaluating Open-ended Story Generation](https://arxiv.org/abs/2009.07602)|-|-|
-
-### 2020/10/22
 
 ### 2020/10/22
 
