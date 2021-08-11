@@ -5,6 +5,15 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 ### Next Meeting
+### 2021/08/05
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Qintong Li|Prompting Methods in NLP|[[slide]](./slides/20210808_qintongli.pdf)|-|
+|-|arXiv 2021 [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://arxiv.org/pdf/2107.13586.pdf) |-|-|
+|-|EMNLP 2020 [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/pdf/2010.15980.pdf) |-|-|
+|-|ACL 2021 [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/pdf/2101.00190.pdf) |-|-|
+
 ### 2021/07/29
 
 |Speakers|Papers|Slides|Others|
