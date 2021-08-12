@@ -5,6 +5,15 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 ### Next Meeting
+### 2021/08/12
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|rickwwang|Context Information in Language Model|[[slide]](./slides/20210810-weiwang.pdf)|-|
+|-|ACL 2018 [Sharp Nearby, Fuzzy Far Away: How Neural Language Models Use Context](http://arxiv.org/abs/1805.04623) |-|-|
+|-|ACL 2020 [Do Transformers Need Deep Long-Range Memory](http://arxiv.org/abs/2007.03356) |-|-|
+|-|ACL 2021 [What Context Features Can Transformer Language Models Use?](https://aclanthology.org/2021.acl-long.70) |-|-|
+
+
 ### 2021/08/05
 
 |Speakers|Papers|Slides|Others|
