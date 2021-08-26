@@ -5,6 +5,17 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 ### Next Meeting
+
+### 2021/08/26
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|HAORAN YANG|Adapter Parameter Generation|[[slide]](./slides/20210826_YANGHAORAN.pdf)|-|
+|-|ACL 2021 [Parameter-efficient Multi-task Fine-tuning for Transformers via Shared Hypernetworks](https://arxiv.org/abs/2106.04489) |-|-|
+|-|Arxiv 2021 [Lifelong Learning of Few-shot Learners across NLP Tasks](https://arxiv.org/abs/2104.08808) |-|-|
+|-|ACL 2021 [Enhancing Content Preservation in Text Style Transfer Using Reverse Attention and Conditional Layer Normalization](https://aclanthology.org/2021.acl-long.8.pdf) |-|-|
+
+
 ### 2021/08/12
 
 |Speakers|Papers|Slides|Others|
