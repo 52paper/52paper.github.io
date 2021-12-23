@@ -6,6 +6,15 @@
 
 ### Next Meeting
 
+### 2021/12/16
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Chen Xu|Conversational Neuro-Symbolic Commonsense Reasoning|[[slide]](./slides/20211216_ChenXu.pdf)|-|
+|-|AAAI 2021 [Conversational Neuro-Symbolic Commonsense Reasoning](https://arxiv.org/pdf/2006.10022.pdf) |-|-|
+|-|Arxiv 2021 [Conversational Multi-Hop Reasoning with Neural Commonsense Knowledge and Symbolic Logic Rules](https://arxiv.org/pdf/2109.08544.pdf) |-|-|
+
+
 ### 2021/08/26
 
 |Speakers|Papers|Slides|Others|
