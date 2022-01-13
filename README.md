@@ -6,6 +6,17 @@
 
 ### Next Meeting
 
+### 2022/1/13
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Tian Lan|Retrieval Augumented Generation|[[slide]](./slides/20220113_tianlan.pptx)|-|
+|-|arXiv 2020 [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909) |-|-|
+|-|NIPS 2020 [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf) |-|-|
+|-|ACL 2021 [Neural Machine Translation with Monolingual Translation Memory](https://aclanthology.org/2021.acl-long.567.pdf) |-|-|
+|-|ICLR 2020 [Generalization Through Memorization: Nearest Neighbor Language Models](https://openreview.net/pdf?id=HklBjCEKvH) |-|-|
+|-|arXiv 2021 [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/pdf/2112.09332.pdf) |-|-|
+
 ### 2021/12/16
 
 |Speakers|Papers|Slides|Others|
