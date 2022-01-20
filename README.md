@@ -6,6 +6,18 @@
 
 ### Next Meeting
 
+
+### 2022/1/20
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Julianjxli|Does the language model understand numbers?|[[slide]](./slides/20220120_julianjxli.pptx)|-|
+|-|EMNLP Findings 2020  [Do Language Embeddings Capture Scales?  ](https://arxiv.org/abs/2010.05345) |-|-|
+|-|EMNLP 2021 [Numeracy enhances the Literacy of Language Models ](https://aclanthology.org/2021.emnlp-main.557/) |-|-|
+|-|EMNLP Findings 2021 [Investigating Numeracy Learning Ability of a Text-to-Text Transfer Model ](https://arxiv.org/abs/2109.04672) |-|-|
+|-|NAACL-HLT 2021 [Predicting Numerals in Natural Language Text Using a Language Model Considering the Quantitative Aspects of Numerals ](https://aclanthology.org/2021.deelio-1.14/) |-|-|
+
+
 ### 2022/1/13
 
 |Speakers|Papers|Slides|Others|
