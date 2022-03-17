@@ -25,7 +25,7 @@
 |qintongli|Explainable Natural Language Processing|[[slide]](./slides/20220310_qintongli.pdf)|-|
 |-|arXiv 2021 [Teach Me to Explain: A Review of Datasets for Explainable Natural Language Processing](http://arxiv.org/abs/2102.12060) |-|-|
 |-|arXiv 2021 [Reframing Human-AI Collaboration for Generating Free-Text Explanations](http://arxiv.org/abs/2112.08674) |-|-|
-|-|ACL Findings 2022 [Event Transition Planning for Open-ended Text Generation](#) |-|-|
+|-|ACL Findings 2022 [Event Transition Planning for Open-ended Text Generation] |-|-|
 
 
 ### 2022/1/20
