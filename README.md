@@ -8,6 +8,7 @@
 
 ### 2022/03/17
 
+
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |Xinting Huang|Towards Better Retrievers for Knowledge-intensive Tasks|[[slide]](./slides/20220317_xintinghuang.pdf)|-|
@@ -19,6 +20,7 @@
 
 
 ### 2022/03/10
+
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
