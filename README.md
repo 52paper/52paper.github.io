@@ -6,6 +6,27 @@
 
 ### Next Meeting
 
+### 2022/03/17
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Xinting Huang|Towards Better Retrievers for Knowledge-intensive Tasks|[[slide]](./slides/20220317_xintinghuang.pdf)|-|
+|-|EMNLP 2021 [Simple Entity-Centric Questions Challenge Dense Retrievers](https://aclanthology.org/2020.acl-main.500/) |-|-|
+|-|NeuIPS 2021 [BEIR: A Heterogeneous Benchmark for Zero-shot Evaluation of Information Retrieval Models](https://openreview.net/forum?id=wCu6T5xFjeJ) |-|-|
+|-|TACL 2021 [PAQ: 65 Million Probably-Asked Questions and What You Can Do With Them](https://aclanthology.org/2021.tacl-1.65/) |-|-|
+|-|ACL 2020 [On the Importance of Diversity in Question Generation for QA](https://aclanthology.org/2020.acl-main.500/) |-|-|
+|-|ACL Findings 2021 [Latent Reasoning for Low-Resource Question Generation](https://aclanthology.org/2021.findings-acl.265/) |-|-|
+
+
+### 2022/03/10
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|qintongli|Explainable Natural Language Processing|[[slide]](./slides/20220310_qintongli.pdf)|-|
+|-|arXiv 2021 [Teach Me to Explain: A Review of Datasets for Explainable Natural Language Processing](http://arxiv.org/abs/2102.12060) |-|-|
+|-|arXiv 2021 [Reframing Human-AI Collaboration for Generating Free-Text Explanations](http://arxiv.org/abs/2112.08674) |-|-|
+|-|ACL Findings 2022 [Event Transition Planning for Open-ended Text Generation] |-|-|
+
 
 ### 2022/1/20
 
