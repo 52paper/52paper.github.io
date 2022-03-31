@@ -6,6 +6,16 @@
 
 ### Next Meeting
 
+### 2022/03/31
+
+| Speakers  | Papers                                                       |                  Slides                   | Others |
+| :-------: | :----------------------------------------------------------- | :---------------------------------------: | :----: |
+| Haofei Yu | Towards Better Transformer for Long-range Sequence Modeling  | [[slide]](./slides/20220331_haofeiyu.pdf) |   -    |
+|     -     | arXiv 2022 [Efficient Transformers: A Survey](https://arxiv.org/abs/2009.06732/) |                     -                     |   -    |
+|     -     | TACL 2021 [Adaptive Semiparametric Language Models](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00371/100688/Adaptive-Semiparametric-Language-Models) |                     -                     |   -    |
+|     -     | ICML 2021 [Not All Memories are Created Equal: Learning to Forget by Expiring](https://arxiv.org/pdf/2105.06548.pdf) |                     -                     |   -    |
+|     -     | ICLR 2021 [Long Range Arena : A Benchmark for Efficient Transformers ](https://arxiv.org/pdf/2011.04006.pdf) |                     -                     |   -    |
+
 ### 2022/03/17
 
 |Speakers|Papers|Slides|Others|
