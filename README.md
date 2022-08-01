@@ -4,6 +4,13 @@
 
 ### Next Meeting
 
+### 2022/07/28
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Qian Cao|Recent Advances of Multimodality on Text Generation|[[slide]](./slides/20220728_qiancao.pdf)|-|
+|-|arXiv 2022 [Prefix Language Models are Unified Modal Learners](https://arxiv.org/pdf/2206.07699.pdf) |-|-|
+|-|arXiv 2022 [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/pdf/2204.14198.pdf) |-|-|
 
 ### 2022/07/14
 
