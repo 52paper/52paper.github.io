@@ -4,6 +4,15 @@
 
 ### Next Meeting
 
+
+### 2022/07/14
+
+| Speakers  | Papers                                                       |                  Slides                   | Others |
+| :-------: | :----------------------------------------------------------- | :---------------------------------------: | :----: |
+| Leyang Cui | Constituency Parsing | [[slide]](./slides/20220714_leyangcui.pdf) |   -    |
+|     -     | ACL 2022 [Investigating Non-local Features for Neural Constituency Parsing](https://aclanthology.org/2022.acl-long.146/) |                     -                     |   -    |
+|     -     | ACL 2022 [Learned Incremental Representations for Parsing](https://aclanthology.org/2022.acl-long.220/) |         
+
 ### 2022/03/31
 
 | Speakers  | Papers                                                       |                  Slides                   | Others |
