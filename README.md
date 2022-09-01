@@ -4,6 +4,13 @@
 
 ### Next Meeting
 
+### 2022/09/01
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|jcykcai|Recent Advances on controllable text generation|[[slide]](./slides/20220901_jcykcai.pdf)|-|
+
+
 ### 2022/07/28
 
 |Speakers|Papers|Slides|Others|
