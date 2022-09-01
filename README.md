@@ -11,6 +11,17 @@
 |jcykcai|Recent Advances on controllable text generation|[[slide]](./slides/20220901_jcykcai.pdf)|-|
 
 
+### 2022/08/25
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Yiyang Li|A Brief Introduction to Multi-party Dialogues|[[slide]](./slides/20220825_yiyangli.pdf)|-|
+|-|AAAI 2019 [A Deep Sequential Model for Discourse Parsing on Multi-Party Dialogues](https://ojs.aaai.org//index.php/AAAI/article/view/4680) |-|-|
+|-|IJCAI 2021 [A Structure Self-aware Model for Discourse Parsing on Multi-party Dialogues](https://www.ijcai.org/proceedings/2021/0543.pdf) |-|-|
+|-|IJCAI 2019 [GSN: A Graph-Structured Network for Multi-Party Dialogues](https://www.ijcai.org/proceedings/2019/0696.pdf) |-|-|
+|-|ACL 2022 [HeterMPC A Heterogeneous Graph Neural Network for Response Generation in Multi-Party Conversations](https://aclanthology.org/2022.acl-long.349.pdf) |-|-|
+
+
 ### 2022/07/28
 
 |Speakers|Papers|Slides|Others|
